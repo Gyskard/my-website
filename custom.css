@@ -1,0 +1,23 @@
+#projects li {
+    margin-bottom: 0.8em;
+}
+
+#projects li:last-child {
+    margin-bottom: 0px;
+}
+
+.career li {
+    margin-bottom: 0.3em;
+}
+
+.career li:last-child {
+    margin-bottom: 0px;
+}
+
+span {
+    white-space: nowrap;
+}
+
+h3 {
+    font-size: 16px;
+}
