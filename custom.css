@@ -15,9 +15,17 @@
 }
 
 span {
-    white-space: nowrap;
+    white-space: nowrap;     
 }
 
 h3 {
     font-size: 16px;
+}
+
+#intro p {
+    margin-bottom: -0.6em;
+}
+
+#intro p:last-child {
+    margin-bottom: 1em;
 }
