@@ -1,5 +1,4 @@
 main {
-    font-family: monospace, monospace;
     max-width: 50rem;
     padding: 2rem;
     margin: auto;
@@ -38,4 +37,8 @@ blockquote {
   border-left: 1px solid #bdae93;
   margin: 0.5em 10px;
   padding: 0.5em 10px;
+}
+
+#projects li {
+  margin-bottom: 0.8em;
 }

@@ -1,0 +1,44 @@
+@font-face {
+	font-family: "Ubuntu-Regular";
+	src: url('../font/Ubuntu-Regular.ttf');
+}
+
+main {
+  font-family: Ubuntu-Regular, monospace;
+}
+
+#projects li:last-child {
+    margin-bottom: 0px;
+  }
+  
+.career li {
+  margin-bottom: 0.3em;
+}
+
+.career li:last-child {
+  margin-bottom: 0px;
+}
+
+span {
+  white-space: nowrap;     
+}
+
+h3 {
+  font-size: 16px;
+}
+
+#intro p {
+  margin-bottom: -0.6em;
+}
+
+#intro p:last-child {
+  margin-bottom: 1em;
+}
+
+#contact li {
+  margin-bottom: 0.4em;
+}
+
+#contact li:last-child {
+  margin-bottom: 0px;
+}
