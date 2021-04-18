@@ -8,19 +8,23 @@ main {
 }
 
 #projects li:last-child {
-    margin-bottom: 0px;
-  }
+    margin-bottom: 0;
+}
   
 .career li {
   margin-bottom: 0.3em;
 }
 
 .career li:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 span {
   white-space: nowrap;     
+}
+
+h2 {
+
 }
 
 h3 {
@@ -40,5 +44,5 @@ h3 {
 }
 
 #contact li:last-child {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }

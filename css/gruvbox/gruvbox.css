@@ -6,7 +6,7 @@ main {
   
 @media only screen and (max-device-width: 736px) {
   main {
-    padding: 0rem;
+    padding: 0;
   }
 }
 
@@ -16,7 +16,7 @@ main {
 
 body {
   background: #282828;
-  color:      #ebdbb2;
+  color: #f3e8c4;
 }
 
 pre {
