@@ -6,7 +6,7 @@ Deployed on netlify [here](https://marguerit.at/).
 
 ## Built With
 
-* [gruvbox-css](https://github.com/Xe/gruvbox-css) - simple CSS theme that emulates Gruvbox.
+* [water.css](https://github.com/kognise/water.css) - a drop-in collection of CSS styles to make simple websites just a little nicer.
 * [cloudflare](https://www.cloudflare.com/) - domain-name-server services.
 * [netlify](https://www.netlify.com/) - continuous deployment.
 
