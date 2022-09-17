@@ -1,6 +1,6 @@
 # my-website
 
-My personal website where I introduce myself. 
+My personal website. 
 
 Deployed on netlify [here](https://marguerit.at/).
 
