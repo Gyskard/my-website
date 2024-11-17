@@ -1,4 +1,5 @@
-<template><button
+<template>
+  <button
   type="button"
   class="collapse-toggle btn btn-primary"
   id="basic-collapse"
