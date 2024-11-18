@@ -15,5 +15,6 @@ export default {
   flyonui: {
     themes: "dark",
     darkTheme: "dark",
+    logs: false
   }
 }
