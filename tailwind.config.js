@@ -8,13 +8,10 @@ export default {
   theme: {
     extend: {},
   },
-  plugins: [
-    require("flyonui"),
-    require("flyonui/plugin")
-  ],
+  plugins: [require("flyonui"), require("flyonui/plugin")],
   flyonui: {
     themes: "dark",
     darkTheme: "dark",
-    logs: false
-  }
-}
+    logs: false,
+  },
+};
