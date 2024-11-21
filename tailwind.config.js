@@ -7,6 +7,9 @@ export default {
   ],
   theme: {
     extend: {},
+    width: {
+      '112': '28rem',
+    }
   },
   plugins: [require("flyonui"), require("flyonui/plugin")],
   flyonui: {
