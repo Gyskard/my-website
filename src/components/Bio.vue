@@ -1,6 +1,6 @@
 <template>
-  <div class="flex flex-row mt-6 items-center max-w-xl">
-    <div class="grow">
+  <div class="flex flex-row justify-center gap-20 mt-6 items-center">
+    <div>
       <h1 class="text-2xl text-lg font-semibold">
         Hey, I'm Thomas.
       </h1>
@@ -16,7 +16,7 @@
       </p>
     </div>
     <div class="avatar">
-      <div class="size-24 mask mask-hexagon-2">
+      <div class="size-28 mask mask-hexagon-2">
         <img src="./me.jpg" alt="avatar" />
       </div>
     </div>

@@ -3,28 +3,34 @@
     <div class="flex justify-center">
       <ul class="menu sm:menu-horizontal">
         <li>
-          <a href="#">
+          <RouterLink to="/">
             <span class="icon-[tabler--home] size-5"></span>
-            <b>Home</b>
-          </a>
+            Home
+          </RouterLink>
         </li>
         <li>
-          <a href="#">
+          <RouterLink to="/career">
             <span class="icon-[tabler--device-desktop-analytics] size-5"></span>
             Career
-          </a>
+          </RouterLink>
         </li>
         <li>
-          <a href="#">
+          <RouterLink to="/travel">
             <span class="icon-[tabler--globe-filled] size-5"></span>
             Travel
-          </a>
+          </RouterLink>
         </li>
         <li>
-          <a href="#">
+          <RouterLink to="/photos">
             <span class="icon-[tabler--camera] size-5"></span>
-            Photography
-          </a>
+            Photos
+          </RouterLink>
+        </li>
+        <li>
+          <RouterLink to="/contact">
+            <span class="icon-[tabler--phone-call] size-5"></span>
+            Contact
+          </RouterLink>
         </li>
       </ul>
     </div>

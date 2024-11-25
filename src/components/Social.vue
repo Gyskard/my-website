@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center w-full flex-wrap gap-2 mt-10">
+  <div class="flex justify-center w-full flex-wrap gap-2 mt-6">
     <a v-for="media in medias" :href="media.url">
       <button
       
