@@ -1,3 +1,5 @@
+import flyonui from 'flyonui';
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -11,7 +13,7 @@ export default {
       '112': '28rem',
     }
   },
-  plugins: [require("flyonui"), require("flyonui/plugin")],
+  plugins: [flyonui],
   flyonui: {
     themes: "dark",
     darkTheme: "dark",
