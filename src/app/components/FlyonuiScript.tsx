@@ -22,4 +22,4 @@ export default function FlyonuiScript() {
   }, [path]);
 
   return null;
-}
+} 
