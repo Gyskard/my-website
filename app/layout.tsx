@@ -1,6 +1,6 @@
 import './globals.css';
-
-import FlyonuiScript from './components/FlyonuiScript';
+import FlyonuiScript from './scripts/FlyonuiScript';
+import Header from "./components/Header";
 
 export default function RootLayout({
   children,
@@ -10,7 +10,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head></head>
-      <body className="max-w-screen-sm mx-auto">
+      <body>
+        <Header />
         {children}
       </body>
       <FlyonuiScript />
