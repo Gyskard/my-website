@@ -6,4 +6,9 @@ module.exports = {
   ],
    // eslint-disable-next-line
   plugins: [require('flyonui'), require('flyonui/plugin')],
+  flyonui: {
+    themes: "dark",
+    darkTheme: "dark",
+    logs: false,
+  },
 };
