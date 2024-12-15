@@ -8,7 +8,6 @@
       enable = true;
         previews = {
         web = {
-          cwd = "front";
           command = [
             "npm"
             "run"
