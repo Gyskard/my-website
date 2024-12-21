@@ -1,9 +1,6 @@
 import Image from 'next/image'
-import { list } from '@vercel/blob';
 
 export default async function Bio() {
-  const response = await list();
-
   return (
     <div className="flex flex-row justify-center gap-20 mt-6 items-center">
       <div>
@@ -20,19 +17,12 @@ export default async function Bio() {
           Welcome on my personal website 🙂
         </p>
       </div>
-      {response.blobs.map((blob) => (
-        <a key={blob.pathname} href={blob.downloadUrl}>
-          {blob.pathname}
-        </a>
-      ))}
-      <div className="avatar">
-        <div className="size-28 mask mask-hexagon-2">
-          <Image src="/me.jpg"
-            width={500}
-            height={500}
-            alt="Picture of the author"
-          />
-        </div>
+      <div className="avatar size-28 mask mask-hexagon-2">
+        <Image src="/me.jpg"
+          width={112}
+          height={112}
+          alt="Picture of the author"
+        />
       </div>
     </div>
   );

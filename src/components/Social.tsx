@@ -34,10 +34,18 @@ const medias: Array<Media> = [
     },
 ];
 
-export default function Social() {
+type Props = {
+  list: Array<string>
+}
+
+export default function Social({ list }: Props) {
     return (
         <div className="flex justify-center w-full flex-wrap gap-2 mt-7">
-            {medias.map((media: Media, index) => (
+            {medias
+              // if there no list props, display all the medias
+              // if there is a list props, display only the media in the list
+              .filter((media: Media) => !list || list.includes(media.name))
+              .map((media: Media, index) => (
                 <Link key={index} href={media.url}>
                     <button className="btn btn-sm btn-outline text-[#b5b5b5] hover:border-[#b5b5b5] hover:bg-[#b5b5b5]/10">
                         <span className={media.icon}></span>{media.name}
