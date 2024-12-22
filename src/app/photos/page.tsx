@@ -1,9 +1,10 @@
+/* eslint-disable react-hooks/exhaustive-deps */
+
 'use client'
 
 import Social from "@/components/Social";
-import Image from 'next/image'
+import ImageDisplay from "@/components/ImageDisplay";
 
-import { ListBlobResultBlob } from '@vercel/blob';
 import { useEffect, useState } from "react";
 import { getBlobs } from "./actions";
 
@@ -11,58 +12,55 @@ export default function Photos() {
   const socialList: Array<string> = ["Flickr", "Instagram"]
   const numberOfPhotosByPage: number = 4
 
-  const [blobs, setBlobs] = useState(Array<ListBlobResultBlob>)
-  const [numberOfPages, setNumberOfPages] = useState(1)
+  const [allURL, setAllURL] = useState(Array<string>)
+  const [displayedURL, setDisplayedURL] = useState(Array(numberOfPhotosByPage).fill(""))
+  const [numberOfPages, setNumberOfPages] = useState(0)
+  const [currentPage, setCurrentPage] = useState(0)
   const [buttonRow, setButtonRow] = useState(Array<unknown>)
-  const [currentPage, setCurrentPage] = useState(1)
-  const [urlArray, setUrlArray] = useState(["", "", "", ""])
 
-  function setPage(page: number): void {
-    setCurrentPage(page) 
-    setUrlArray([blobs[4 * (page - 1) + 1].url, blobs[4 * (page - 1) + 2].url, blobs[4 * (page - 1) + 3].url, blobs[4 * (page - 1) + 4].url])
+  function changePage(page: number) {
+    setCurrentPage(page)
+    setDisplayedURL(allURL.slice(numberOfPhotosByPage * page, numberOfPhotosByPage * (page + 1)))
+  }
+
+  function changePagination(page: number) {
+    setButtonRow(
+      Array(numberOfPages)
+        .fill(0)
+        .map((_, i) => 
+          <button
+            className="btn btn-soft btn-square aria-[current='page']:text-bg-soft-primary"
+            type="button"
+            key={i}
+            aria-current={i === page ? 'page' : false}
+            onClick={() => changePage(i)}
+          >
+            {i + 1}
+          </button>
+      )
+    )
+  }
+
+  function PreviousButton() {
+    return <button type="button" className={`btn btn-soft ${currentPage === 0 && "btn-disabled"}`} onClick={() => changePage(currentPage - 1)}>Previous</button>
+  }
+
+  function NextButton() {
+    return <button type="button" className={`btn btn-soft ${currentPage === numberOfPages - 1 && "btn-disabled"}`} onClick={() => changePage(currentPage + 1)}>Next</button>
   }
 
   useEffect(() => {
-  	getBlobs().then(response => {
-      setBlobs(response.blobs)
-      // need to substract 1 from the blobs length because blob folder itself is included in response 
-      setNumberOfPages(Math.ceil((response.blobs.length - 1) / numberOfPhotosByPage))
-      setUrlArray([response.blobs[currentPage].url, response.blobs[currentPage + 1].url, response.blobs[currentPage + 2].url, response.blobs[currentPage + 3].url])
+    getBlobs().then(response => {
+      const URLs = response.blobs.slice(1).map(blob => blob.url)
+      setNumberOfPages(Math.ceil(URLs.length / numberOfPhotosByPage))
+      setDisplayedURL(URLs.slice(0, numberOfPhotosByPage))
+      setAllURL(URLs)
     })
   }, []);
 
   useEffect(() => {
-    setButtonRow([])
-    for (let i = 1; i <= numberOfPages; i++) {
-      setButtonRow(prevButtonRow => [...prevButtonRow, <button type="button" key={i} aria-current={i === currentPage ? 'page' : false} className="btn btn-soft btn-square aria-[current='page']:text-bg-soft-primary" onClick={() => setPage(i)}>{i}</button>])
-    }
-  }, [numberOfPages, currentPage]);
-
-
-const CustomImage = (props) => {
-  const [isLoading, setIsLoading] = useState(true);
-
-  useEffect(() => {
-    setIsLoading(true)
-  }, [props.srcImage]);
-
-  return (
-    <div className="h-72">
-      { (props.srcImage === "" || isLoading ) && <div className={`skeleton h-72 w-72 animate-pulse`} /> }
-      { props.srcImage !== "" && 
-        <Image
-          src={props.srcImage}
-          alt="photos"
-          width={288}
-          height={288}
-          priority
-          onLoad={() => setIsLoading(false)}
-          className={`${isLoading && "hidden"}`}
-        />
-      }
-    </div>
-  );
-};
+    changePagination(currentPage)
+  }, [currentPage, numberOfPages]);
 
   return (
     <div className="flex justify-center items-center flex-col mt-6">
@@ -82,18 +80,17 @@ const CustomImage = (props) => {
         </div>
       </div>
       <div className="mt-10 mb-5 max-w-4xl">
-        <div className={`flex flex-row flex-wrap gap-5 items-center justify-center`}>
-            <CustomImage srcImage={urlArray[0]} />
-            <CustomImage srcImage={urlArray[1]} />
-            <CustomImage srcImage={urlArray[2]} />
-            <CustomImage srcImage={urlArray[3]} />
+        <div className="flex flex-row flex-wrap gap-5 items-center justify-center">
+          { displayedURL.map((url, index) => <ImageDisplay key={index} src={url} />)}
         </div>
-          <nav className="flex items-center justify-center gap-2 mt-8 mb-1">
-
-            <button type="button" className={`btn btn-soft ${currentPage === 1 && "btn-disabled"}`} onClick={() => setPage(currentPage - 1)}>Previous</button>
+        <nav className="flex items-center justify-center gap-2 mt-8 mb-1">
+          { numberOfPages === 0 && <div className={`skeleton h-10 w-96 animate-pulse`} /> }
+          { numberOfPages > 0 && <>
+            <PreviousButton />
             {buttonRow}
-            <button type="button" className={`btn btn-soft ${currentPage === numberOfPages && "btn-disabled"}`} onClick={() => setPage(currentPage + 1)}>Next</button>
-          </nav> 
+            <NextButton />
+          </>}
+        </nav> 
       </div>
     </div>
   );
