@@ -1,0 +1,6229 @@
+[
+    {
+        "name": "21c Museum Hotel Louisville",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.256810254231745,
+                "longitude": -85.76191337148008,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "9-11 Memorial Pools",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.71105327945111,
+                "longitude": -74.01308641566324,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.712131312429435,
+                "longitude": -74.01322262642312,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Abandoned 46 stylemaster sedan",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.81085974348104,
+                "longitude": -76.2720865278569,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Abandoned Hartwell Railway",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 34.3526631187201,
+                "longitude": -82.93742832584775,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Abandoned Thomas Iron Ruins",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.66400687908283,
+                "longitude": -75.48604511844235,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Abandoned West Shore Drive Bridge",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.4705533,
+                "longitude": -75.9211706,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Absolute Bagels",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.802537468438615,
+                "longitude": -73.96740363441992,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Acorn Street",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 42.35761295622675,
+                "longitude": -71.06888843892271,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Adams Mill Dams",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.78917314226164,
+                "longitude": -72.54872922164843,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "African Burial Ground national-park Monument",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.71452034971196,
+                "longitude": -74.00448074374384,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Air Mobility Command Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.11904501885529,
+                "longitude": -75.45686104394318,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Air Power Park",
+        "type": "plane",
+        "geolocalisation": [
+            {
+                "latitude": 37.043327,
+                "longitude": -76.3664409,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Algonquin Logging Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 45.5438012,
+                "longitude": -78.2630809,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "American Helicopter Museum and Education Center",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.991858723706486,
+                "longitude": -75.5788668570246,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ancien pont de voie ferré",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 48.32716559590623,
+                "longitude": -64.69368080507256,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ancienne papeterie de Shawinigan",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 46.543270420538335,
+                "longitude": -72.763626705152,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Anne Heggtveit Ski Hill",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.3729929,
+                "longitude": -75.7442279,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Antietam Iron Furnace Site and Antietam Village",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 39.4161715,
+                "longitude": -77.7407813,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Appalachian Trail & C&O Canal Towpath",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 39.32413697047328,
+                "longitude": -77.72630409869517,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Arabica New York Nolita",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.722521254533895,
+                "longitude": -73.99383644331006,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Arlington House",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 38.88117701058478,
+                "longitude": -77.07259634014082,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Arlington national-park Cemetery",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.87391157570491,
+                "longitude": -77.06916362272558,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Assateague Island national-park Seashore",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 38.22053822383833,
+                "longitude": -75.14695046686917,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Audrey Hepburn by Tristan Eaton",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.72033235646449,
+                "longitude": -73.99680410429808,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Austin Dam Memorial Park",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.65268222115482,
+                "longitude": -78.08526204612647,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Aux Anciens Canadiens",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 46.81174025705013,
+                "longitude": -71.20739123140447,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Avondale Railway Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 47.4072634,
+                "longitude": -53.2037616,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Aylmer Hydro Ruins",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.3797984,
+                "longitude": -75.7994955,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "B&O Railroad Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.285452814442515,
+                "longitude": -76.63259706941852,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Balaclava Saw Mill",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.38968568647344,
+                "longitude": -76.9503227674329,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ball's Falls & Historic Village",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 43.1337597,
+                "longitude": -79.3825595,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bar Laitier La Banquise",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 48.83861541191014,
+                "longitude": -64.47865445584202,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "barBURITTO",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 43.88747923807032,
+                "longitude": -78.90494573986282,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Battery 282",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.27367653568038,
+                "longitude": -53.98955470191864,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Battery Keyes",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.62697709455867,
+                "longitude": -70.2125478423958,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Battery Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.70292682977051,
+                "longitude": -74.01535802019787,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bayless Pulp and Papermill",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.640311106565015,
+                "longitude": -78.08762856677922,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belfast and Moosehead Lake Railroad",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 44.61520021654602,
+                "longitude": -69.32208581259968,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bell Island Airport",
+        "type": "airport",
+        "geolocalisation": [
+            {
+                "latitude": 47.63633844793797,
+                "longitude": -52.97759974642987,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bell Island Community Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 47.64637940644099,
+                "longitude": -52.94937644497773,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bell Island Lighthouse",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 47.65512117313573,
+                "longitude": -52.91657986484185,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belle Isle Hydroelectric Plant",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 37.52743393340679,
+                "longitude": -77.45398721277691,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère de la Mine BC",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 46.04146580506972,
+                "longitude": -71.35681564507703,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère de Percé",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.52422703487851,
+                "longitude": -64.22415941658136,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère de Pointe-Saint-Charles",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 45.48209346034423,
+                "longitude": -73.55615925069787,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère des Chutes de Shawinigan",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 46.530127642563734,
+                "longitude": -72.76301001511624,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère du Cap Bon-Ami",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.80914266028056,
+                "longitude": -64.22023720234205,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère du Mont-Saint-Alban",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.81132778012091,
+                "longitude": -64.22689360762548,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Belvédère du Quartier Mitchell",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 46.07566925537955,
+                "longitude": -71.30639912468071,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Berceau du Canada",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 48.82761033048571,
+                "longitude": -64.48445409241036,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bercée - Microbrasserie & Restaurant",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 48.38503907646525,
+                "longitude": -71.68537058614905,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Berlin Wall Sections",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.370630531067825,
+                "longitude": -63.2603813717437,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bicentennial Mall State Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 36.17084417843984,
+                "longitude": -86.78758137451491,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Big Chute Marine Railway",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 44.88479059236743,
+                "longitude": -79.67445859847776,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Big Papa Gyro",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 34.73655948354625,
+                "longitude": -86.65514935193264,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Big Rusty By Thomas Dambo",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 39.97622186353217,
+                "longitude": -74.8264840612567,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bistro-Bar Le Brise Bise",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 48.829447421855996,
+                "longitude": -64.48387678730258,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bleecker Street Pizza",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.73219414413156,
+                "longitude": -74.00341548867753,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Blomidon Provincial Park and Campground",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 45.26387930175345,
+                "longitude": -64.34259965492976,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Blue Heron Mining Community",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 36.6713483051578,
+                "longitude": -84.54779111650943,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Blue Heron Overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 36.67158230975506,
+                "longitude": -84.54373142549645,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bluestone Dam",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 37.641661549893534,
+                "longitude": -80.88839835028325,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bluewater Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.74423059663874,
+                "longitude": -81.13705829024346,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "BO Railroad Bridge 463",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.4956904,
+                "longitude": -81.7038497,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bond Street Warf",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.280278443238565,
+                "longitude": -76.59485844338347,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Boott Cotton Mills Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 42.64760229533073,
+                "longitude": -71.30743208259621,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Boston & Maine 410 Switcher Locomotive",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 42.64536544469099,
+                "longitude": -71.3129834756099,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Boston Common",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 42.35510610515523,
+                "longitude": -71.06570238738213,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Boston Public Library - Central Library",
+        "type": "library",
+        "geolocalisation": [
+            {
+                "latitude": 42.34930231225302,
+                "longitude": -71.07818633356818,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bottle cove",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 49.11633660327398,
+                "longitude": -58.41106428767496,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bowling Green",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.704961515948625,
+                "longitude": -74.01369327122234,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bowmanville Valley Conservation Area",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.92226585760256,
+                "longitude": -78.70212242524786,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Brandywine Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 41.276751957077536,
+                "longitude": -81.5401077583407,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Brattleboro Retreat",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.85863118851769,
+                "longitude": -72.56521900055783,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bridge to nowhere at Hillandale Park",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.59136519083813,
+                "longitude": -81.49080255746674,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Brockville Railway Tunnel",
+        "type": "tunnel",
+        "geolocalisation": [
+            {
+                "latitude": 44.594319772044244,
+                "longitude": -75.68758883937316,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Brooklyn Bridge Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.70225841146834,
+                "longitude": -73.99593520193937,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Buffalo City Hall",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 42.88663117153793,
+                "longitude": -78.87935721561931,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Buffalo Naval Park",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 42.87747994084148,
+                "longitude": -78.87959234726529,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bug Light",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 43.65561728490833,
+                "longitude": -70.23522138275551,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Buggy Top Cave Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 35.11540946919373,
+                "longitude": -85.92452173972127,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Bunkers Of Alvira",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.13604261521539,
+                "longitude": -76.95914722430201,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Burntcoat Head Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 45.31123238927676,
+                "longitude": -63.80703584136255,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Butter Pot Provincial Park",
+        "type": "camping",
+        "geolocalisation": [
+            {
+                "latitude": 47.3901566474078,
+                "longitude": -53.058255596693435,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Buttermilk Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.41635360428185,
+                "longitude": -76.5209845057566,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cache Lake Historic Site",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 45.55194533523474,
+                "longitude": -78.59370472464079,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Camp 30",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.9275115,
+                "longitude": -78.6666589,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Canadian Coast Guard Cutter Westfort",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 44.60951288959705,
+                "longitude": -80.58627847481553,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Canadian Forces Base Greenwood",
+        "type": "airport",
+        "geolocalisation": [
+            {
+                "latitude": 44.97808725125449,
+                "longitude": -64.92590497365532,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Canal Walk Murals",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 37.533688801184766,
+                "longitude": -77.43667892223553,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cape Spear Lighthouse national-park Historic Site",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 47.52334055375169,
+                "longitude": -52.620919629973834,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Captain James Cook national-park Historic Site",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 48.95443012126655,
+                "longitude": -57.96302691482051,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cargill Grain Elevator",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.85600238688368,
+                "longitude": -78.85650117248079,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Carrie Blast Furnaces national-park Historic Landmark",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.413921471249125,
+                "longitude": -79.88980409208882,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cass Scenic Railroad",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 38.397585591686216,
+                "longitude": -79.91330818818834,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Castle Clinton national-park Monument",
+        "type": "castle",
+        "geolocalisation": [
+            {
+                "latitude": 40.70345508051665,
+                "longitude": -74.01681997915789,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Castle Craig",
+        "type": "castle",
+        "geolocalisation": [
+            {
+                "latitude": 41.5565907633401,
+                "longitude": -72.8354913133666,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cathedral of Learning",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.444386705869555,
+                "longitude": -79.95357436922717,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cave of the Winds",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 43.082283371723896,
+                "longitude": -79.07135380153558,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Centennial Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 36.14894376108987,
+                "longitude": -86.81272754454865,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Central Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.78266250600849,
+                "longitude": -73.9658765904397,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Central Railroad of New Jersey Terminal",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.70741302895558,
+                "longitude": -74.03733358536064,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Charging Bull",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.704559106380195,
+                "longitude": -74.01385899037761,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Charles Daley Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.18135234553134,
+                "longitude": -79.32314620495632,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Charlestown Naval Shipyard Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 42.3742426639451,
+                "longitude": -71.05328273243265,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Chester Hill Lookout",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 43.6811815,
+                "longitude": -79.3620484,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Chez Gaston",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 46.8157656476185,
+                "longitude": -71.25224554583451,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Chincoteague national-park Wildlife Refuge",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 37.90878011285209,
+                "longitude": -75.35600624861603,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Chrysler Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.75162099316996,
+                "longitude": -73.97550234695089,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Chrysler Museum of Art",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 36.85638894029227,
+                "longitude": -76.29306804022997,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Chute Sainte-Anne",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 48.940592737934075,
+                "longitude": -66.12441271528952,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cincinnati Union Terminal",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.10988190466481,
+                "longitude": -84.53730283520963,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "City Hall Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.71238942230517,
+                "longitude": -74.00644056635079,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cleveland Trust Company Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 41.500149534220185,
+                "longitude": -81.68618373578488,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Clinton Tunnel",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.40530231796134,
+                "longitude": -71.68370960778039,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Coastal Battery",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 47.630385730229314,
+                "longitude": -52.92659121118542,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Collect Pond Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.71627785631453,
+                "longitude": -74.00187954293314,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Columbus Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.693819726344366,
+                "longitude": -73.98984262999772,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Command Bunker",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.27519381842493,
+                "longitude": -53.98618766781289,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Concho Rim Overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 37.96720135821327,
+                "longitude": -81.08607516599689,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Concrete City",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.18922113439874,
+                "longitude": -75.97605251605236,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Contoocook Railroad Museum and Visitor Center",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 43.2226684,
+                "longitude": -71.7130933,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Control Tower - Historical Naval Air Station South Weymouth",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.14441396880412,
+                "longitude": -70.94524383049301,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Coplay Cement Company Kilns",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 40.676778451085966,
+                "longitude": -75.49590349047007,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cordelia Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 35.236470916947404,
+                "longitude": -80.81750873842599,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cowan Railroad Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 35.1636612,
+                "longitude": -86.0104278,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Crack Is Wack Mural",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.80473458534904,
+                "longitude": -73.93181828218633,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Criollas Baked Empanadas",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.76378431969184,
+                "longitude": -73.98482582088003,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Crook Point Bascule Bridge",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.82385961417698,
+                "longitude": -71.3851805405044,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Crooked Slide Park",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 45.38417473758185,
+                "longitude": -77.60298542975748,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cruiser Olympia",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.943560436961,
+                "longitude": -75.14099326164259,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Cuyahoga Valley national-park Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 41.28069370566929,
+                "longitude": -81.56809665954607,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Darlington Provincial Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 43.87252476407868,
+                "longitude": -78.77932694327332,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Dave's Hot Chicken",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 42.351279869294494,
+                "longitude": -71.06563857744115,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "De Oppresso Liber Horse Soldier",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.710428823822255,
+                "longitude": -74.01411332540621,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Depot Harbour",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.3193627,
+                "longitude": -80.0943339,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Dinosaur (Pigeon Statue)",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.75204347857305,
+                "longitude": -74.001014227584,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Douglas XA3D-1 Skywarrior",
+        "type": "plane",
+        "geolocalisation": [
+            {
+                "latitude": 42.99399387162093,
+                "longitude": -74.33756510687147,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Doyers Street",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 40.71435208384162,
+                "longitude": -73.99794311265786,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Dreams of Hyperion Sculpture by Bruce Williams",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.72659907661199,
+                "longitude": -73.99368025002356,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Dry Dock 1",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.3732951475252,
+                "longitude": -71.05543450889333,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Dumbo - Manhattan Bridge View",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 40.70331459849191,
+                "longitude": -73.98956879866115,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Dungeon Provincial Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 48.66683363097718,
+                "longitude": -53.08421884403988,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "East Liberty Presbyterian Church",
+        "type": "religion",
+        "geolocalisation": [
+            {
+                "latitude": 40.46090296211156,
+                "longitude": -79.92508742844242,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "East River Esplanade",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 40.70286150599111,
+                "longitude": -74.00780504752477,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Eastern State Penitentiary",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.96830330795491,
+                "longitude": -75.17271844848314,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Eckley Miners' Village",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.99521531199759,
+                "longitude": -75.8560537669911,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Edward Smith Property Mine",
+        "type": "part2",
+        "geolocalisation": [
+            {
+                "latitude": 44.813300979929586,
+                "longitude": -76.27060151641653,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Eileen's Special Cheesecake",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.72157583451181,
+                "longitude": -73.9972418002898,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Eingang Promenade",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 40.69979405437369,
+                "longitude": -73.9957527805262,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ekiben",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 39.285647729059285,
+                "longitude": -76.59453511452027,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "El Jefe's Taqueria",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 42.352295720124296,
+                "longitude": -71.06499415152204,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Elfreth's Alley",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 39.95278182303311,
+                "longitude": -75.14247204221354,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ellis Island Immigrant Building",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.69913025118875,
+                "longitude": -74.0395588406712,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Empire Fulton Ferry",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.70425895978635,
+                "longitude": -73.99321402708829,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Empty Sky Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.7082401051139,
+                "longitude": -74.03493144393931,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Eternal Flame Falls",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 42.70169732284352,
+                "longitude": -78.75156082899949,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Falafel Inc",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 38.88142759746856,
+                "longitude": -77.02746786333874,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fall River Heritage State Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 41.70541480323373,
+                "longitude": -71.16057318556213,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Faneuil Hall Marketplace",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 42.360202987638615,
+                "longitude": -71.05511768786769,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fells Point",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 39.28348734098299,
+                "longitude": -76.59351794086449,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Five Islands Provincial Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 45.396169216986046,
+                "longitude": -64.05259707225758,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Flatiron Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.74103587241016,
+                "longitude": -73.98973473991529,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Forest Mills Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 44.33426650243892,
+                "longitude": -77.04689033577614,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Forsyth Mine",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 45.47458530050231,
+                "longitude": -75.78836664767283,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Allen Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.665398628765125,
+                "longitude": -70.2406142777553,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Amherst",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 47.56352010280457,
+                "longitude": -52.680405650174215,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Baldwin State Historic Site",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.752997405342455,
+                "longitude": -69.78870840847485,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Negley",
+        "type": "castle",
+        "geolocalisation": [
+            {
+                "latitude": 36.14501152794503,
+                "longitude": -86.7746562270699,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Oxford",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 46.28531060671789,
+                "longitude": -60.2765145601536,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Petrie Military Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 46.24971422762101,
+                "longitude": -60.15301987885703,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Popham State Historic Site",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.754985746808124,
+                "longitude": -69.78359456290265,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fort Péninsule",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 48.85344096457543,
+                "longitude": -64.39702153041154,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Frank's Culvert",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 44.5077918,
+                "longitude": -76.4283334,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Frederick Douglass-Isaac Myers Maritime Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.27958467735054,
+                "longitude": -76.59615754407669,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Fundy Tidal Interpretive Centre",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.25057818104095,
+                "longitude": -63.45985945789094,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Gage Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.24203468363969,
+                "longitude": -79.8286770792762,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Gazela",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.94475685488264,
+                "longitude": -75.13998690204394,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "General George Patton Museum Of Leadership",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 37.896511974429785,
+                "longitude": -85.97409942343599,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "General Grant national-park Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.81340896719994,
+                "longitude": -73.96309019080357,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Genoa Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.9599755081872,
+                "longitude": -83.00481593557497,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "George Peabody Library",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.29726910944235,
+                "longitude": -76.61502938596506,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Glade Creek Grist Mill",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 37.979444723957954,
+                "longitude": -80.9468543524712,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Glady Tunnel",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 38.79956317619371,
+                "longitude": -79.72313529145767,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Glendale Avenue Bridge",
+        "type": "bridge",
+        "geolocalisation": [
+            {
+                "latitude": 43.14531101114543,
+                "longitude": -79.19233211559161,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Glenn H. Curtiss Aviation Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 42.39866580971957,
+                "longitude": -77.23297345179127,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Goddard Mansion",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.62647479401326,
+                "longitude": -70.21419062233575,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Golden Tenders",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 43.24769650359683,
+                "longitude": -79.8290820267736,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grafiti alley",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 39.31152015119553,
+                "longitude": -76.61912102863785,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grand Central",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.752721723202775,
+                "longitude": -73.97722797516252,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grand Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 47.05146448759424,
+                "longitude": -67.7394461631775,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grand narrows bridge",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.95884398226569,
+                "longitude": -60.79715807632102,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grande Hermine",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.184467826459496,
+                "longitude": -79.37032869078271,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grandview Overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 40.434463591028994,
+                "longitude": -80.01138270384793,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Great Lakes Science Center",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 41.50741977031743,
+                "longitude": -81.69664579996181,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Great Molasses Flood Plaque",
+        "type": "text",
+        "geolocalisation": [
+            {
+                "latitude": 42.36851624698725,
+                "longitude": -71.05566462271733,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Great Shiplock Park",
+        "type": "bridge",
+        "geolocalisation": [
+            {
+                "latitude": 37.52678730786706,
+                "longitude": -77.42156811105195,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Grebe's Nest",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 47.64005429104937,
+                "longitude": -52.9794254222993,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Green Acres Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.06859,
+                "longitude": -74.8283527,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Green Bank Observatory",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 38.43139856697505,
+                "longitude": -79.81917784574584,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Greenacre Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.756229362234215,
+                "longitude": -73.96928066733483,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Gros Morne Mountain Hiking Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 49.56581428555655,
+                "longitude": -57.83223734178165,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Haliburton Rotary Locomotive",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 45.04302576152614,
+                "longitude": -78.52217786012145,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Halifax Explosion Memorial Bell Tower",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 44.665829323561745,
+                "longitude": -63.60120285144841,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Halifax Waterfront",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 44.64580681630453,
+                "longitude": -63.569207267666854,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Harbor Point Overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 39.27903091179066,
+                "longitude": -76.59818392392891,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Harbourside Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 47.567197614544774,
+                "longitude": -52.70309268082153,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Harcourt Graphite Mine",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 45.0724435,
+                "longitude": -78.168699,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Harpers Ferry national-park Historical Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.31577178221702,
+                "longitude": -77.7569632096948,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hattie B's Hot Chicken",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 36.15166015904228,
+                "longitude": -86.85082521905224,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hawk Lake Log Chute",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 45.1424376,
+                "longitude": -78.7431664,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Heavyweight passenger car",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 36.65446828650305,
+                "longitude": -82.46711398081273,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "High Line",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 40.74796791282977,
+                "longitude": -74.00480781898581,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hillsborough Gypsum Plant Silos",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.92387914341287,
+                "longitude": -64.63039594609945,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Historic Brushy Mountain State Penitentiary",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 36.1072363806485,
+                "longitude": -84.4549888853001,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "HMS Calypso",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 49.29481286927117,
+                "longitude": -55.018789730175506,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hocking Hills State Park Center",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.43453492866549,
+                "longitude": -82.54173528410877,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hocking Hills State Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.43352064587758,
+                "longitude": -82.54827697347633,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hocking Valley Scenic Railway",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 39.458560654806206,
+                "longitude": -82.23363550310322,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hog Hill Trail",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.40853674060328,
+                "longitude": -71.80630275907234,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Honky Tonk Highway",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 36.16040878362493,
+                "longitude": -86.77845650364897,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hoosac Tunnel",
+        "type": "tunnel",
+        "geolocalisation": [
+            {
+                "latitude": 42.6752514,
+                "longitude": -72.9979747,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hopewell Rocks Provincial Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 45.81719066372072,
+                "longitude": -64.57849726578522,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Horwood Lumber Co. Pulp Mill and Hydro Facility",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 49.2762119633375,
+                "longitude": -54.921633472371205,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hubbard Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 41.54927501550889,
+                "longitude": -72.83592293555427,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Hydroelectric Power Plant",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 39.3262024183821,
+                "longitude": -77.7337801427123,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Independence national-park Historical Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.949529933498845,
+                "longitude": -75.14972987284132,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Intrepid Sea-Air-Space Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.764477638914705,
+                "longitude": -73.99960760542811,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Irish Hunger Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.71506609050784,
+                "longitude": -74.01637285186165,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Irish Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 39.94453496348198,
+                "longitude": -75.14362721914277,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ithaca Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.45274216192574,
+                "longitude": -76.49163441791791,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "J.T. Cheeseman Provincial Park",
+        "type": "camping",
+        "geolocalisation": [
+            {
+                "latitude": 47.63281613128096,
+                "longitude": -59.253098641025154,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Jack Pine Trailhead",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 46.77866704340421,
+                "longitude": -60.33234810693541,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "James Hook & Co",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 42.35497881545462,
+                "longitude": -71.05094339348503,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "James River Park Pipeline Walkway",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 37.53254373440276,
+                "longitude": -77.43429793972277,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Jean richard shipwrecked",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.4488313893649,
+                "longitude": -75.704694107758,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Jefferson Rock",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 39.322593649191724,
+                "longitude": -77.73328155240955,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Joe's Pizza Broadway",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.75467880537437,
+                "longitude": -73.987030159984,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "John Brown's Fort",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.323045662679334,
+                "longitude": -77.72953868009867,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "John Henry Historical Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 37.6520733,
+                "longitude": -80.763009,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Johnny Ro Veterans Memorial Park",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 42.51990906764294,
+                "longitude": -71.72684857325305,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Jubilee Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.529455981753735,
+                "longitude": -80.20490605089937,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Kane's Donuts in Boston",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 42.356253237097704,
+                "longitude": -71.05281971692868,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Katz's Delicatessen",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.72224782376024,
+                "longitude": -73.987412838024,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Kaymoor mine",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 38.047161319384145,
+                "longitude": -81.06618801212569,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "King's Hollow Tunnel",
+        "type": "tunnel",
+        "geolocalisation": [
+            {
+                "latitude": 39.3214656,
+                "longitude": -82.2799832,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Kinzua Bridge",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.75975148937392,
+                "longitude": -78.58711283311695,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "La Boîte à Pain",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 46.778981045364056,
+                "longitude": -71.30412541319191,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "La Manche Provincial Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 47.16757342703489,
+                "longitude": -52.88559386902557,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "La Manche Village",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.16663932680922,
+                "longitude": -52.86739934341076,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lac des américains",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 48.95615901212108,
+                "longitude": -66.02243775024294,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lafayette Square",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 38.89952979191805,
+                "longitude": -77.0365732864553,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lake Leigh Dam",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.336103743080656,
+                "longitude": -76.2690263581707,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lake Ontario Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.21808347140912,
+                "longitude": -76.53169731818117,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lakeview Park Oshawa",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.86237942250389,
+                "longitude": -78.82910571818226,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Land Locked Boat",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.19944546785012,
+                "longitude": -74.35739811744287,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lane Motor Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 36.14022249680822,
+                "longitude": -86.73460125771548,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "LAV III",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 44.90613255470841,
+                "longitude": -76.02505271517961,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Le bout du monde",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.751538775184066,
+                "longitude": -64.16002436623644,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Le Petit Sao",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 45.482775178528804,
+                "longitude": -73.56210344816013,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Leetonia Beehive Coke Ovens Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.88586993783106,
+                "longitude": -80.75583837196456,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lenin Statue",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.72134453057622,
+                "longitude": -73.98573415136536,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Les Bateaux de Croisières Julien Cloutier",
+        "type": "ferry",
+        "geolocalisation": [
+            {
+                "latitude": 48.52158,
+                "longitude": -64.21324,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Les Moulins La Fayette",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 46.83540023769064,
+                "longitude": -71.29634226198229,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lester B. Pearson Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.182971232087546,
+                "longitude": -79.22522727645791,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Letchworth State Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 42.58654005840392,
+                "longitude": -78.0381508797638,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Levain Bakery",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.77734813455974,
+                "longitude": -73.95526014344932,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Liberty Bell Center",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.949608611173225,
+                "longitude": -75.15027983952939,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Liberty Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.710385329611704,
+                "longitude": -74.01376523410237,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Library of Congress",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 38.888671941380935,
+                "longitude": -77.00471532317593,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Life of the Forest Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 38.19795608452175,
+                "longitude": -75.15790500800486,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Life of the Marsh Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 38.206863674536315,
+                "longitude": -75.16011705754241,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lightship Overfalls LV-118",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 38.7779239,
+                "longitude": -75.1412212,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lincoln Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.8892601913376,
+                "longitude": -77.05013308531953,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lincoln Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 43.65966736469193,
+                "longitude": -70.25500457171141,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Little Island",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.74199288691625,
+                "longitude": -74.01030822859947,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Long Lake Provincial Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.62174540690773,
+                "longitude": -63.62637545921966,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Long Wharf",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 42.360230790952166,
+                "longitude": -71.0480247468261,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lookout Mountain Incline Railway",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 35.00954212639109,
+                "longitude": -85.32857453407392,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lookout Mountain",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 35.00593559614244,
+                "longitude": -85.34334554667875,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lookout Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.923084690362145,
+                "longitude": -79.38224674027984,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Louis Valentino, Jr. Park and Pier",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.678420916292644,
+                "longitude": -74.01816581687493,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Louisville Knot",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 38.25747560706904,
+                "longitude": -85.76531608269097,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lowell national-park Historical Park",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 42.64438970325733,
+                "longitude": -71.3133358153858,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lowell Riverwalk",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 42.64657463579361,
+                "longitude": -71.30290445341531,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Lunenburg Waterfront",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 44.37595159861407,
+                "longitude": -64.31098048469703,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "M-41 Walker Bulldog Tank",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 37.247304090713556,
+                "longitude": -81.24793461264287,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Madame Sherri's Castle",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.864319322212985,
+                "longitude": -72.51830420245804,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Madison Square Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.74215229949734,
+                "longitude": -73.98806104650404,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Magnolia Bakery",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.77567631674818,
+                "longitude": -73.98028338127854,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.75257840874212,
+                "longitude": -73.97680659399086,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Maine Narrow Gauge Railroad",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 43.66075005810133,
+                "longitude": -70.24571489551656,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Major Rudolph Anderson Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 34.8413807,
+                "longitude": -82.3944084,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Mammoth Cave national-park Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 37.18618635007565,
+                "longitude": -86.0999576284014,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Marie Joseph Boat Yard",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.96541210463011,
+                "longitude": -62.079980633116385,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Marie Joseph Provincial Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.96747252755073,
+                "longitude": -62.08674334780176,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Marion Steam Shovel",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 42.992526,
+                "longitude": -77.9383155,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Maritime Museum of the Atlantic",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 44.647457730731176,
+                "longitude": -63.57067217237865,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Marshall Street",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 42.361580823763894,
+                "longitude": -71.05693008840218,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Metropolitan Museum of Art",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.77945248224612,
+                "longitude": -73.9632780645902,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Metropolitan State Hospital",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.4054585,
+                "longitude": -71.2136523,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Metropolitan Waterworks Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 42.33181020103054,
+                "longitude": -71.15562917963265,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Mich Café",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 48.34829819124516,
+                "longitude": -64.68459651074023,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Military Aviation Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 36.67900152688979,
+                "longitude": -76.0281427305115,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Mlc Test Fence Site 012 Ruins",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.27170515473856,
+                "longitude": -75.57279017992005,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Mohawk Valley B-52 Memorial",
+        "type": "plane",
+        "geolocalisation": [
+            {
+                "latitude": 43.226513810963624,
+                "longitude": -75.42616300078146,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Mont Xalibu",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 48.9669253270666,
+                "longitude": -66.0169582938948,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Moo Moo Express Car Wash",
+        "type": "service",
+        "geolocalisation": [
+            {
+                "latitude": 39.98858170269736,
+                "longitude": -83.0299663894694,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Moonville Tunnel",
+        "type": "tunnel",
+        "geolocalisation": [
+            {
+                "latitude": 39.307123978243844,
+                "longitude": -82.32194346141218,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Moshulu",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.942321925135936,
+                "longitude": -75.14106042191855,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Murphys Point Provincial Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 44.78188331628461,
+                "longitude": -76.23750843598833,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Murphy’s Point Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 44.78080566892118,
+                "longitude": -76.21703373403167,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Museum of Fine Arts, Boston",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 42.33938094263324,
+                "longitude": -71.09405872937539,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Musée Boréalis",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 46.348582243648075,
+                "longitude": -72.53221579108376,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Musée de la civilisation",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 46.815344252819536,
+                "longitude": -71.2023149300761,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Musée de pointe-à-Callière",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 45.50263065,
+                "longitude": -73.55418114932368,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Mutual Riverfront Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 42.86425940977567,
+                "longitude": -78.8599892919846,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "N.C. Transportation Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 35.69038384477756,
+                "longitude": -80.42970957129553,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "NASA's Wallops Flight Facility Visitor Center",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 37.938295705450535,
+                "longitude": -75.45745890019417,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "national-park Air Force Museum of Canada",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 44.115847393513974,
+                "longitude": -77.55075833080774,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "national-park Gallery of Art",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.89128814155415,
+                "longitude": -77.01999144440761,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "national-park Museum of the United States Air Force",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.781266877954984,
+                "longitude": -84.10922527313234,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "national-park World War II Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.889397026345776,
+                "longitude": -77.04053285549112,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "NCSM Haida",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 43.275405,
+                "longitude": -79.8556837,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Nelsonville Brick Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.45904910583391,
+                "longitude": -82.24795647289527,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Neversink Pit",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 34.80028647687383,
+                "longitude": -86.00858466087638,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New Hope and Ivyland's 3028",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.36904511363206,
+                "longitude": -74.9547122885766,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New Hope Railroad",
+        "type": "train",
+        "geolocalisation": [
+            {
+                "latitude": 40.364290967813005,
+                "longitude": -74.95310292882918,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New River Gorge Bridge Overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 38.07086328689296,
+                "longitude": -81.07807674550659,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New York Fries Quinte Mall",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 44.189223766795074,
+                "longitude": -77.40205609802753,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New York LaGuardia Planeview Park",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 40.76721120319859,
+                "longitude": -73.88512620650687,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New York Public Library",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.75318019643165,
+                "longitude": -73.98226455699316,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New York Stock Exchange",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.70681496170665,
+                "longitude": -74.01095394151491,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "New York Transit Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.69056166110836,
+                "longitude": -73.9900892599035,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Niagara Falls State Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 43.08602844780315,
+                "longitude": -79.06776001463284,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Niagara Mohawk Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 43.051136287303876,
+                "longitude": -76.15615488447125,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ninigret Troll No. 1",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 41.367346721585264,
+                "longitude": -71.66189570498969,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ninigret Troll No. 2",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 41.3721094130551,
+                "longitude": -71.66161296686428,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "No. 9 Coal Mine and Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.82869943317153,
+                "longitude": -75.89703847954029,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Noble Beast Brewing Co.",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 41.50786889058146,
+                "longitude": -81.68655058432759,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "North Alabama Railroad Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 34.783569457601565,
+                "longitude": -86.54625084425697,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "North Atlantic Aviation Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 48.9522883,
+                "longitude": -54.6232499,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "NRA national-park Firearms Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.862981983761586,
+                "longitude": -77.3355221580112,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Nuttallburg Coal Tipple",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 38.050534675709436,
+                "longitude": -81.04256982883199,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Nuttallburg Headhouse",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 38.05398567001157,
+                "longitude": -81.04156895248612,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Old Mill House",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 39.96647163528636,
+                "longitude": -75.18350792811275,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Old Northern Ave Bridge",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.35447450735993,
+                "longitude": -71.04939433147146,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Old rail bridge crossing",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.55052242525747,
+                "longitude": -80.20417621934261,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Old Sawmill Remains",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 38.40014854925658,
+                "longitude": -79.91062217404885,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Old State House",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 42.35873450736285,
+                "longitude": -71.0574549557629,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Old Wife",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 45.38912199703855,
+                "longitude": -64.06222212056821,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "One World Trade Center",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.712737509920345,
+                "longitude": -74.01336130665923,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ontario Regiment Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 43.91678440458797,
+                "longitude": -78.89528129279961,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Optimist Hall",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 35.234418229089705,
+                "longitude": -80.82691049848337,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Oratoire Saint-Joseph du Mont-Royal",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 45.49198121037435,
+                "longitude": -73.6164691577868,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ottawa Brook viaduct",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 45.9340601976541,
+                "longitude": -60.94477067956357,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Palais des congrès de Montréal",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 45.503776575555804,
+                "longitude": -73.56108566475065,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Papi Queso",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 35.23429963793044,
+                "longitude": -80.82747818089047,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc Beauséjour",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 48.437637026520534,
+                "longitude": -68.53807807013243,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc des rapides",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 45.42634627394133,
+                "longitude": -73.59121899711856,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc le Trou de la Fée",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 48.3746093022325,
+                "longitude": -71.97223945655537,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park de la Gaspésie",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 48.962925648954645,
+                "longitude": -66.09579008990639,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park de la Jacques-Cartier",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 47.16870229617173,
+                "longitude": -71.36439508154312,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park de la Mauricie",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 46.733320402487536,
+                "longitude": -72.76816397058668,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park des Hautes‑Gorges-de-la-Rivière‑Malbaie",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 47.86869629061233,
+                "longitude": -70.4935285848502,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park du Bic",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 48.35427586081198,
+                "longitude": -68.75470139908548,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park du Lac-Témiscouata",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 47.79032476704934,
+                "longitude": -68.75737942796985,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc national-park Forillon",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 48.82166304791764,
+                "longitude": -64.2454340506628,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parc Écomaritime de l'Anse-du-Port",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 46.25162966630574,
+                "longitude": -72.63934187266739,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parrott's Bay Chevy Nova",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.22604811484242,
+                "longitude": -76.69072394728364,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Parrott's Bay Conservation Area",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.214908365083055,
+                "longitude": -76.69419003523106,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Paterson Great Falls national-park Historical Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.914946859622695,
+                "longitude": -74.18005096728041,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pebble Beach",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 39.9719219534692,
+                "longitude": -75.11475308301225,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Peggy's Cove",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 44.49173511421073,
+                "longitude": -63.91862008981363,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Petit Phare",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 47.68004725111237,
+                "longitude": -69.72548932699765,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Phare de Cap Gaspé",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 48.751166637804126,
+                "longitude": -64.16126776568183,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Phare de Carleton",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 48.086827199968894,
+                "longitude": -66.12480029323012,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Phare de La Martre",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 49.20612853271092,
+                "longitude": -66.17148734310602,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Phare-musée maritime de Matane",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 48.85003445456125,
+                "longitude": -67.54877045950133,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Philadelphia City Hall",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.95282058308708,
+                "longitude": -75.16346180669655,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Philadelphia Museum of Art",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 39.96551681759681,
+                "longitude": -75.18110103173218,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pier 16",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 40.7057076,
+                "longitude": -74.0031026,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pierce's Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.28525381345437,
+                "longitude": -76.60593233971119,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pipeline Overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 37.53325352409213,
+                "longitude": -77.43593564729676,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Plane of Botwood Flying Boat Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 49.15254048981947,
+                "longitude": -55.34051698191833,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Plimpton Pond Mill and Dam",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.15973208108452,
+                "longitude": -71.23140120016367,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pointe de l'Islet",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 48.136671182301356,
+                "longitude": -69.71522757195375,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pointe à Margaulx",
+        "type": "service",
+        "geolocalisation": [
+            {
+                "latitude": 48.49467145093715,
+                "longitude": -64.14574436298808,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Portland Head Light",
+        "type": "lighthouse",
+        "geolocalisation": [
+            {
+                "latitude": 43.62308262727321,
+                "longitude": -70.20788526961438,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Power Plant At Lucky Strike",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 37.52739680485566,
+                "longitude": -77.41948985067638,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "President John F. Kennedy Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.8815306072788,
+                "longitude": -77.07147215633883,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Presqu'ile Provincial Park",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 43.99413334622079,
+                "longitude": -77.70472131643643,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Prince",
+        "type": "station",
+        "geolocalisation": [
+            {
+                "latitude": 37.85643471395816,
+                "longitude": -81.06056268467451,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Printers Alley",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 36.163965368510816,
+                "longitude": -86.77835013613185,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Proper Pie Co",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 37.53141008863221,
+                "longitude": -77.41868143239878,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Puffin Viewing Site",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.629397264049196,
+                "longitude": -53.01909348634526,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Pump House & Water Tower",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.41281662994698,
+                "longitude": -79.89663976962333,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Péchés Mignons",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 48.44892690120304,
+                "longitude": -68.533372128905,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "QC 1300 1302 Quebec Central Railway GMD FP7",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 46.24175685736031,
+                "longitude": -71.03774652564728,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Quai de l'Île Bonaventure",
+        "type": "ferry",
+        "geolocalisation": [
+            {
+                "latitude": 48.502473631008144,
+                "longitude": -64.17461330698718,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Quai de Petit-Saguenay",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.2380744396248,
+                "longitude": -70.10264133566675,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Quai de Ste-Angèle-de-Laval",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 46.33611319022665,
+                "longitude": -72.51811370364487,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Quincy Quarries",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.243304887706195,
+                "longitude": -71.03422892485284,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Radio City Music Hall",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.759959689854156,
+                "longitude": -73.97999865883068,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Randonnée Cap Gaspé",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 48.769251922246596,
+                "longitude": -64.19361200318652,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Reading Terminal Market",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.95370879938936,
+                "longitude": -75.15847635951299,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Red Cliff Battery",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.6466281652853,
+                "longitude": -52.66150047655259,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Red Cliff Radar Station",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.6393038795697,
+                "longitude": -52.666992516978496,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Red Head Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 45.39016259159416,
+                "longitude": -64.05403926113478,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Red Hook Trolley",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.6738199,
+                "longitude": -74.017685,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Reed Gold Mine",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 35.285589553062486,
+                "longitude": -80.46659601477208,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Restaurant Hélicoptère",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 45.55196585885488,
+                "longitude": -73.5402885359833,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Retreat Tower",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.85754685897879,
+                "longitude": -72.565930105605,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rideau Canal, Lock 32 - Poonamalie",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 44.892976022699095,
+                "longitude": -76.0555641044881,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Riverside Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 45.13150369452632,
+                "longitude": -76.15112274492971,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rochester Abandoned Subway",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.1544012,
+                "longitude": -77.6105955,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rochester High Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 43.16132553785645,
+                "longitude": -77.61357313902528,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rock House",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 39.4983261,
+                "longitude": -82.6171877,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rockefeller Center",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.758728063435875,
+                "longitude": -73.97868318693226,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rockefeller Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.71625200881582,
+                "longitude": -74.01675636695235,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Rocky Point State Park",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.6905451,
+                "longitude": -71.3669516,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Roosevelt Island Smallpox Hospital Ruins",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.75175039425804,
+                "longitude": -73.95958316357549,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Royal Canadian Legion Avro CF-100 Jet Fighter Memorial",
+        "type": "plane",
+        "geolocalisation": [
+            {
+                "latitude": 45.0426729,
+                "longitude": -78.5214682,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ruins of St. John's Episcopal Church",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.3230252395221,
+                "longitude": -77.73201019259308,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Réserve mondiale de la biosphère du Lac-Saint-Pierre",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 46.1441879896138,
+                "longitude": -72.73115621407878,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Saint Patrick Cathedral",
+        "type": "religion",
+        "geolocalisation": [
+            {
+                "latitude": 40.75855259736062,
+                "longitude": -73.97610734718299,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Salada Tea Headquarters",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 42.34958860667759,
+                "longitude": -71.07171161096392,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Salisbury Viaduct",
+        "type": "bridge",
+        "geolocalisation": [
+            {
+                "latitude": 39.832850636673534,
+                "longitude": -79.04321641225768,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Salmon River Train Trestle",
+        "type": "bridge",
+        "geolocalisation": [
+            {
+                "latitude": 47.02752628616192,
+                "longitude": -67.60356880053615,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sam Slick Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 45.04344649068726,
+                "longitude": -78.52190963921744,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Scenic overlook",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 38.032708041854406,
+                "longitude": -78.85243318645955,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Scranton Iron Furnaces",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.40403127092046,
+                "longitude": -75.6627463555812,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Seashore Trolley Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 43.40911451124613,
+                "longitude": -70.48939408022402,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sentier du Moulin des Breakey",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 46.6701138,
+                "longitude": -71.2304988,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Shake Shack",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.75840814142666,
+                "longitude": -73.98922193422031,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.76326976689173,
+                "longitude": -73.98214657827343,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.75144081115003,
+                "longitude": -73.98794997177397,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.80672390210979,
+                "longitude": -73.94234758231313,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.715234326602285,
+                "longitude": -74.0148788202261,
+                "isApproximated": false
+            },
+            {
+                "latitude": 38.89705556550486,
+                "longitude": -77.02384366606181,
+                "isApproximated": false
+            },
+            {
+                "latitude": 38.863337274379205,
+                "longitude": -77.06057624943736,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sheep Meadow",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 40.77178036508621,
+                "longitude": -73.97484461643042,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sheet harbour lumber & pulp mill remains",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.92750582395118,
+                "longitude": -62.544810718910625,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Shipwreck conception harbour",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.444855586855574,
+                "longitude": -53.20583960850654,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sideling Hill Tunnel",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.049429246611844,
+                "longitude": -78.14111121497405,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Signal Hill national-park Historic Site",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 47.57005209709158,
+                "longitude": -52.682030500426855,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Silo City",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.86303917580113,
+                "longitude": -78.86208167269638,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Silver Queen Mine",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 44.77254776409079,
+                "longitude": -76.24950687759713,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Site historique maritime de la Pointe-au-Père",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 48.51692576663617,
+                "longitude": -68.46991245740546,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Skerwink Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 48.37912742932091,
+                "longitude": -53.34032617455522,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Skyline Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 46.73768266557485,
+                "longitude": -60.88054621833764,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Smiths Falls Bascule Bridge",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.89585,
+                "longitude": -76.0291336,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Smithsonian national-park Air and Space Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.88804109141658,
+                "longitude": -77.01992961719392,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Smithsonian national-park Museum of American History",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.89125022333625,
+                "longitude": -77.03009310256495,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sofia Pizza Shoppe",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.75667535730242,
+                "longitude": -73.96435077016969,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Soldiers and Sailors Monument",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 41.49951894565122,
+                "longitude": -81.69294419674947,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sonny's Famous Steaks",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 39.94983292187044,
+                "longitude": -75.14478935352805,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "South Garden",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.965003356409554,
+                "longitude": -75.1830378685301,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "South Gate House",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.78223573966765,
+                "longitude": -73.96247797174732,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Spirit of Harbour Grace",
+        "type": "plane",
+        "geolocalisation": [
+            {
+                "latitude": 47.67193646770878,
+                "longitude": -53.25663432415926,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Spirit Rock Conservation Area",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.762184281684725,
+                "longitude": -81.1417938389525,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Split Rock Quarry Stone Crusher",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.024597721705476,
+                "longitude": -76.24258851593632,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "SS Columbia",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 42.860761163404845,
+                "longitude": -78.86233213334035,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "SS Ilex",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 46.965119421235606,
+                "longitude": -52.92176446514931,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "SS Kyle",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 47.67056426491166,
+                "longitude": -53.25376690287133,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "SS United States",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.91842915536449,
+                "longitude": -75.13666349326245,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "SS William G. Mather",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 41.50922860101559,
+                "longitude": -81.69801766039976,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "St Lawrence Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 44.57767139475396,
+                "longitude": -75.70171816726152,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Statue of Liberty",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 40.68922512052515,
+                "longitude": -74.04447325837411,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Steamtown national-park Historic Site",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 41.40789411314468,
+                "longitude": -75.67206025605144,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "SteelStacks",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.6152163398038,
+                "longitude": -75.36813182662739,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Steve's Authentic Key Lime Pie",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.67778069046455,
+                "longitude": -74.01817518865248,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Steven F. Udvar-Hazy Center",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.910974425827,
+                "longitude": -77.44403951189702,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Stone Road Prison Quarry",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 43.548867133824714,
+                "longitude": -80.19920023436438,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Straus Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.80184987042835,
+                "longitude": -73.96818437099394,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Stubbert's Point Battery",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 46.22415671856478,
+                "longitude": -60.22756546824786,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Submarine Becuna",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.94356385802657,
+                "longitude": -75.14118196207745,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sullenberger Aviation Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 35.22541562744462,
+                "longitude": -80.93324899356028,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Sunset rocks",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 49.11765489867447,
+                "longitude": -58.41026420464898,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tablelands Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 49.478074085416246,
+                "longitude": -57.97399303171818,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tank at Greenville",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 34.829992016439604,
+                "longitude": -82.35102382848336,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tennessee State Capitol",
+        "type": "capitol",
+        "geolocalisation": [
+            {
+                "latitude": 36.16583293906457,
+                "longitude": -86.78425594200014,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tennessee State Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 36.17249680743647,
+                "longitude": -86.79020924852779,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Terra Nova national-park Park",
+        "type": "camping",
+        "geolocalisation": [
+            {
+                "latitude": 48.5254630131869,
+                "longitude": -53.96590709393138,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Terra Nova Sulphite Co. Mill",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 48.66536228607307,
+                "longitude": -54.011350372332814,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Terrapin Point",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 43.08007439863688,
+                "longitude": -79.0742520060245,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Terrasse du Chevalier-de-Lévis",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 46.80626908163162,
+                "longitude": -71.18613189763447,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Chase Manhattan Bank Plaza",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 40.7073863511829,
+                "longitude": -74.00922023540846,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Cleveland Arcade",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 41.499971468539115,
+                "longitude": -81.69023587500703,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Cleveland Museum of Art",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 41.50790997343146,
+                "longitude": -81.61197230118376,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The David N. Dinkins Manhattan Municipal Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.71303403443783,
+                "longitude": -74.00371723595006,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Dream Garden",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 39.9481020706923,
+                "longitude": -75.15116987302946,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Duke Of Duckworth",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 47.56423310921029,
+                "longitude": -52.707911067883366,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Fulton Center",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.7105524071807,
+                "longitude": -74.0089802726546,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Gilded Lady Mural by Tristan Eaton",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.74441547520407,
+                "longitude": -73.98792001210883,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Great Lawn",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.78183714722373,
+                "longitude": -73.96652024255886,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Grotto, Bruce Peninsula national-park Park",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 45.24531843965022,
+                "longitude": -81.52435323667845,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Holy Donut",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 43.65596500636758,
+                "longitude": -70.25291864575587,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Mariners' Museum and Park",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 37.05455566235886,
+                "longitude": -76.48808971384972,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Museum of Modern Art",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 40.761409220297686,
+                "longitude": -73.97762526430631,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Navy Yard",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 39.89040033223947,
+                "longitude": -75.17459392099556,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Parthenon",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 36.14966453543438,
+                "longitude": -86.81336333394593,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Pier at Brooke Avenue",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 36.8499774210586,
+                "longitude": -76.29724805257008,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Plant",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.95154695062717,
+                "longitude": -73.89934761756277,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Point at the Rivers",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 39.32311919278335,
+                "longitude": -77.72847270311941,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Pond at Central Park",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 40.7658464493419,
+                "longitude": -73.97393627496403,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Room",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 40.749755145254305,
+                "longitude": -73.96137497908408,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Sphere",
+        "type": "art",
+        "geolocalisation": [
+            {
+                "latitude": 40.710508649666544,
+                "longitude": -74.01389261054894,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Tomb of the Unknown Soldier",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.87639432582252,
+                "longitude": -77.07217994856795,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Wanamaker Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 39.951467741049186,
+                "longitude": -75.16257804808131,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The White House",
+        "type": "capitol",
+        "geolocalisation": [
+            {
+                "latitude": 38.8976513656058,
+                "longitude": -77.03651390907532,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Woolworth Building",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.712408978355846,
+                "longitude": -74.00835525463931,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "The Yellow Peril",
+        "type": "plane",
+        "geolocalisation": [
+            {
+                "latitude": 44.89599007557808,
+                "longitude": -76.0234458633908,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Thomas Jefferson Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.881405227362364,
+                "longitude": -77.03653303207909,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Thomas Paine Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 40.71499018079862,
+                "longitude": -74.00277882520574,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Thurmond Historic Town",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 37.959042196248404,
+                "longitude": -81.08054014234908,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Times Square",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 40.75797473502547,
+                "longitude": -73.98554554787479,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tommy DiNic’s",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 39.95335239687754,
+                "longitude": -75.15911077066919,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tour d'observation des fous de Bassan",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.49003,
+                "longitude": -64.14779,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Train dump in the woods in Strongsville",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.34174054101269,
+                "longitude": -81.84428881440279,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Trinity Loop",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 48.366122802286064,
+                "longitude": -53.39764495538718,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Triphammer Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.45157206218526,
+                "longitude": -76.48035529000614,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tudor City Bridge",
+        "type": "bridge",
+        "geolocalisation": [
+            {
+                "latitude": 40.7491180923047,
+                "longitude": -73.9705032126292,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Tug Jupiter",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.94374296207446,
+                "longitude": -75.14006077521472,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Twin arches trailhead",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 36.54448646761633,
+                "longitude": -84.74185192199397,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Twin arches",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 36.54384051629188,
+                "longitude": -84.73784072183652,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "U.S. Space & Rocket Center",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 34.711210505721525,
+                "longitude": -86.65397119923743,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Ulysses S. Grant Memorial",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.88977264596165,
+                "longitude": -77.01292081801617,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Union Street",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 42.36102065347633,
+                "longitude": -71.05693403042783,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "United Nations Headquarters",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 40.74932455965404,
+                "longitude": -73.96793035483057,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "United States Capitol",
+        "type": "capitol",
+        "geolocalisation": [
+            {
+                "latitude": 38.88998042925366,
+                "longitude": -77.00915580753237,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "United States Holocaust Memorial Museum",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 38.88671812469618,
+                "longitude": -77.03262776796014,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USCG Lightship Chesapeake",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.28571029975983,
+                "longitude": -76.60880301404093,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USCGC Taney",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.28585693494473,
+                "longitude": -76.60627879613601,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS  John F. Kennedy",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.88577406767162,
+                "longitude": -75.17830568041107,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS Cassin Young",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 42.37221706699263,
+                "longitude": -71.0544647747684,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS COD Submarine Memorial",
+        "type": "museum",
+        "geolocalisation": [
+            {
+                "latitude": 41.510083573168586,
+                "longitude": -81.69158900887439,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS Constitution",
+        "type": "sailboat",
+        "geolocalisation": [
+            {
+                "latitude": 42.37247250874841,
+                "longitude": -71.05658768907587,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS Sachem",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 39.081039789442826,
+                "longitude": -84.84840401045203,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS Torsk",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.2850689,
+                "longitude": -76.6086497,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS Whidbey Island",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 39.89435286412796,
+                "longitude": -75.17722759493833,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "USS Wisconsin",
+        "type": "boat",
+        "geolocalisation": [
+            {
+                "latitude": 36.848198837665066,
+                "longitude": -76.29545292651,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Van Slyke Castle",
+        "type": "castle",
+        "geolocalisation": [
+            {
+                "latitude": 41.04478385240751,
+                "longitude": -74.26266199391569,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Vanessa's Dumpling House",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.71831925161074,
+                "longitude": -73.99178409260554,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Vieux-Port de Montréal",
+        "type": "place",
+        "geolocalisation": [
+            {
+                "latitude": 45.50592987088205,
+                "longitude": -73.55210244122483,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Village Square Pizza",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.77662179713343,
+                "longitude": -73.95795223213027,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Virginia Creeper Trail Welcome Center",
+        "type": "building",
+        "geolocalisation": [
+            {
+                "latitude": 36.709401,
+                "longitude": -81.9711439,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Virginia State Capitol",
+        "type": "capitol",
+        "geolocalisation": [
+            {
+                "latitude": 37.53584177215701,
+                "longitude": -77.43166579901172,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Voinovich Bicentennial Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 41.5104094329353,
+                "longitude": -81.6970950272073,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Wachusett Dam and Wachusett Reservoir",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.40265668274354,
+                "longitude": -71.68714295993314,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Wadsworth Pump House",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.53574950643623,
+                "longitude": -72.67833990317887,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Walk of Fame Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 36.159194491545456,
+                "longitude": -86.7769579922505,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Warner And Swasey Observatory",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 41.53617195944079,
+                "longitude": -81.56834296162509,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Washington Monument of Baltimore",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 39.29753209382567,
+                "longitude": -76.61569672937308,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Washington Monument",
+        "type": "monument",
+        "geolocalisation": [
+            {
+                "latitude": 38.889462446188375,
+                "longitude": -77.03526801016196,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Washington Park",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.10893673387695,
+                "longitude": -84.5174010410673,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Washington Reagan Gravelly Point",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 38.86484257933108,
+                "longitude": -77.0380303835723,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Washington Square",
+        "type": "park",
+        "geolocalisation": [
+            {
+                "latitude": 39.94707146632462,
+                "longitude": -75.1523275505159,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Washington Street",
+        "type": "street",
+        "geolocalisation": [
+            {
+                "latitude": 42.35537297998478,
+                "longitude": -71.06060764278199,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Watkins Glen Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.37429122913989,
+                "longitude": -76.87600618152857,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Webwood Falls Nature Reserve",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.494400384154346,
+                "longitude": -80.5471090861372,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Wells Falls",
+        "type": "water",
+        "geolocalisation": [
+            {
+                "latitude": 42.43355964136765,
+                "longitude": -76.48517899091618,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Westinghouse Atom Smasher",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 40.41069548688794,
+                "longitude": -79.84318237279592,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Wilberforce Graphite Mine",
+        "type": "cave",
+        "geolocalisation": [
+            {
+                "latitude": 45.03810606893075,
+                "longitude": -78.2193866582209,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Woodland Trail",
+        "type": "walk",
+        "geolocalisation": [
+            {
+                "latitude": 37.89543018673658,
+                "longitude": -75.360714465893,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Xi'an Famous Foods",
+        "type": "food",
+        "geolocalisation": [
+            {
+                "latitude": 40.7401902425347,
+                "longitude": -74.00199304860028,
+                "isApproximated": false
+            },
+            {
+                "latitude": 40.709196275242086,
+                "longitude": -74.00928376812072,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "York Redoubt national-park Historic Site",
+        "type": "urbex",
+        "geolocalisation": [
+            {
+                "latitude": 44.596553880763544,
+                "longitude": -63.5535230945611,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Zone d'observation de phoques",
+        "type": "photo",
+        "geolocalisation": [
+            {
+                "latitude": 48.80953351802844,
+                "longitude": -67.64251513496284,
+                "isApproximated": false
+            }
+        ]
+    },
+    {
+        "name": "Île Bonaventure",
+        "type": "national-park",
+        "geolocalisation": [
+            {
+                "latitude": 48.49546269646991,
+                "longitude": -64.16273117065431,
+                "isApproximated": false
+            }
+        ]
+    }
+]
