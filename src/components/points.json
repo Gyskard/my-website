@@ -31,9 +31,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 44.81085974348104,
-                "longitude": -76.2720865278569,
-                "isApproximated": false
+                "latitude": 44.82631074863878,
+                "longitude": -76.36856335651866,
+                "isApproximated": true
             }
         ]
     },
@@ -42,9 +42,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 34.3526631187201,
-                "longitude": -82.93742832584775,
-                "isApproximated": false
+                "latitude": 34.409594807275866,
+                "longitude": -83.02281171973105,
+                "isApproximated": true
             }
         ]
     },
@@ -53,9 +53,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 40.66400687908283,
-                "longitude": -75.48604511844235,
-                "isApproximated": false
+                "latitude": 40.55311611823654,
+                "longitude": -75.52310228866031,
+                "isApproximated": true
             }
         ]
     },
@@ -97,9 +97,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 41.78917314226164,
-                "longitude": -72.54872922164843,
-                "isApproximated": false
+                "latitude": 41.91492229585143,
+                "longitude": -72.58175963205687,
+                "isApproximated": true
             }
         ]
     },
@@ -328,9 +328,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 45.38968568647344,
-                "longitude": -76.9503227674329,
-                "isApproximated": false
+                "latitude": 45.382650179286,
+                "longitude": -77.09562544091831,
+                "isApproximated": true
             }
         ]
     },
@@ -372,9 +372,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 47.27367653568038,
-                "longitude": -53.98955470191864,
-                "isApproximated": false
+                "latitude": 47.26734448543601,
+                "longitude": -53.95018243372809,
+                "isApproximated": true
             }
         ]
     },
@@ -823,9 +823,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 41.59136519083813,
-                "longitude": -81.49080255746674,
-                "isApproximated": false
+                "latitude": 41.5541506285587,
+                "longitude": -81.65885302933492,
+                "isApproximated": true
             }
         ]
     },
@@ -919,7 +919,7 @@
     },
     {
         "name": "Butter Pot Provincial Park",
-        "type": "camping",
+        "type": "national-park",
         "geolocalisation": [
             {
                 "latitude": 47.3901566474078,
@@ -955,9 +955,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 43.9275115,
-                "longitude": -78.6666589,
-                "isApproximated": false
+                "latitude": 43.92760498405925,
+                "longitude": -78.75091548424317,
+                "isApproximated": true
             }
         ]
     },
@@ -1263,9 +1263,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 42.40530231796134,
-                "longitude": -71.68370960778039,
-                "isApproximated": false
+                "latitude": 42.4454668890285,
+                "longitude": -71.71144574644192,
+                "isApproximated": true
             }
         ]
     },
@@ -1307,9 +1307,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 47.27519381842493,
-                "longitude": -53.98618766781289,
-                "isApproximated": false
+                "latitude": 47.291126770660014,
+                "longitude": -53.923481088234176,
+                "isApproximated": true
             }
         ]
     },
@@ -1568,7 +1568,7 @@
     },
     {
         "name": "Dungeon Provincial Park",
-        "type": "park",
+        "type": "national-park",
         "geolocalisation": [
             {
                 "latitude": 48.66683363097718,
@@ -1868,9 +1868,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 46.28531060671789,
-                "longitude": -60.2765145601536,
-                "isApproximated": false
+                "latitude": 46.377228973821666,
+                "longitude": -60.33103235828294,
+                "isApproximated": true
             }
         ]
     },
@@ -2022,9 +2022,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 38.79956317619371,
-                "longitude": -79.72313529145767,
-                "isApproximated": false
+                "latitude": 38.69487503610826,
+                "longitude": -79.6669773992946,
+                "isApproximated": true
             }
         ]
     },
@@ -2121,9 +2121,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 43.184467826459496,
-                "longitude": -79.37032869078271,
-                "isApproximated": false
+                "latitude": 43.27870543801355,
+                "longitude": -79.29894290607292,
+                "isApproximated": true
             }
         ]
     },
@@ -2330,9 +2330,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 36.65446828650305,
-                "longitude": -82.46711398081273,
-                "isApproximated": false
+                "latitude": 36.67153563703054,
+                "longitude": -82.61543226530117,
+                "isApproximated": true
             }
         ]
     },
@@ -2462,9 +2462,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 49.2762119633375,
-                "longitude": -54.921633472371205,
-                "isApproximated": false
+                "latitude": 49.246834750578685,
+                "longitude": -54.7220983191669,
+                "isApproximated": true
             }
         ]
     },
@@ -2484,9 +2484,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 39.3262024183821,
-                "longitude": -77.7337801427123,
-                "isApproximated": false
+                "latitude": 39.31742942517294,
+                "longitude": -77.62399304793621,
+                "isApproximated": true
             }
         ]
     },
@@ -2547,7 +2547,7 @@
     },
     {
         "name": "J.T. Cheeseman Provincial Park",
-        "type": "camping",
+        "type": "national-park",
         "geolocalisation": [
             {
                 "latitude": 47.63281613128096,
@@ -2594,9 +2594,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 45.4488313893649,
-                "longitude": -75.704694107758,
-                "isApproximated": false
+                "latitude": 45.50394998877809,
+                "longitude": -75.61597148495429,
+                "isApproximated": true
             }
         ]
     },
@@ -2722,7 +2722,7 @@
         ]
     },
     {
-        "name": "La Boîte à Pain",
+        "name": "La boîte à pain",
         "type": "food",
         "geolocalisation": [
             {
@@ -2814,9 +2814,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 45.19944546785012,
-                "longitude": -74.35739811744287,
-                "isApproximated": false
+                "latitude": 45.139347481387844,
+                "longitude": -74.35760721142462,
+                "isApproximated": true
             }
         ]
     },
@@ -3042,7 +3042,7 @@
     },
     {
         "name": "Long Lake Provincial Park",
-        "type": "park",
+        "type": "national-park",
         "geolocalisation": [
             {
                 "latitude": 44.62174540690773,
@@ -3245,7 +3245,7 @@
     },
     {
         "name": "Marie Joseph Provincial Park",
-        "type": "park",
+        "type": "national-park",
         "geolocalisation": [
             {
                 "latitude": 44.96747252755073,
@@ -3347,9 +3347,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 45.27170515473856,
-                "longitude": -75.57279017992005,
-                "isApproximated": false
+                "latitude": 45.22586246888809,
+                "longitude": -75.60457629329902,
+                "isApproximated": true
             }
         ]
     },
@@ -3420,7 +3420,7 @@
         ]
     },
     {
-        "name": "Murphy’s Point Trail",
+        "name": "Murphy's Point Trail",
         "type": "walk",
         "geolocalisation": [
             {
@@ -3589,9 +3589,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 40.36904511363206,
-                "longitude": -74.9547122885766,
-                "isApproximated": false
+                "latitude": 40.424640272247075,
+                "longitude": -74.9254958300221,
+                "isApproximated": true
             }
         ]
     },
@@ -3831,9 +3831,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 38.40014854925658,
-                "longitude": -79.91062217404885,
-                "isApproximated": false
+                "latitude": 38.40775959930541,
+                "longitude": -79.84048168954186,
+                "isApproximated": true
             }
         ]
     },
@@ -4003,7 +4003,7 @@
         ]
     },
     {
-        "name": "Parc national-park des Hautes‑Gorges-de-la-Rivière‑Malbaie",
+        "name": "Hautes‑Gorges-de-la-Rivière‑Malbaie National Park",
         "type": "national-park",
         "geolocalisation": [
             {
@@ -4047,7 +4047,7 @@
         ]
     },
     {
-        "name": "Parc Écomaritime de l'Anse-du-Port",
+        "name": "Parc écomaritime de l'Anse-du-Port",
         "type": "park",
         "geolocalisation": [
             {
@@ -4062,9 +4062,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 44.22604811484242,
-                "longitude": -76.69072394728364,
-                "isApproximated": false
+                "latitude": 44.26397742237671,
+                "longitude": -76.79269953282858,
+                "isApproximated": true
             }
         ]
     },
@@ -4238,9 +4238,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 42.15973208108452,
-                "longitude": -71.23140120016367,
-                "isApproximated": false
+                "latitude": 42.17538055489675,
+                "longitude": -71.2923087424063,
+                "isApproximated": true
             }
         ]
     },
@@ -4256,7 +4256,7 @@
         ]
     },
     {
-        "name": "Pointe à Margaulx",
+        "name": "Pointe Margaulx",
         "type": "service",
         "geolocalisation": [
             {
@@ -4381,14 +4381,14 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 46.24175685736031,
-                "longitude": -71.03774652564728,
-                "isApproximated": false
+                "latitude": 46.19616431799995,
+                "longitude": -70.94572358208043,
+                "isApproximated": true
             }
         ]
     },
     {
-        "name": "Quai de l'Île Bonaventure",
+        "name": "Quai de l'île Bonaventure",
         "type": "ferry",
         "geolocalisation": [
             {
@@ -4469,9 +4469,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 47.6466281652853,
-                "longitude": -52.66150047655259,
-                "isApproximated": false
+                "latitude": 47.60610443542235,
+                "longitude": -52.74949874137982,
+                "isApproximated": true
             }
         ]
     },
@@ -4480,9 +4480,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 47.6393038795697,
-                "longitude": -52.666992516978496,
-                "isApproximated": false
+                "latitude": 47.60156084322047,
+                "longitude": -52.77904132241505,
+                "isApproximated": true
             }
         ]
     },
@@ -4851,9 +4851,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 40.049429246611844,
-                "longitude": -78.14111121497405,
-                "isApproximated": false
+                "latitude": 40.11210548158603,
+                "longitude": -78.13002872762642,
+                "isApproximated": true
             }
         ]
     },
@@ -5277,7 +5277,7 @@
     },
     {
         "name": "Terra Nova national-park Park",
-        "type": "camping",
+        "type": "national-park",
         "geolocalisation": [
             {
                 "latitude": 48.5254630131869,
@@ -5500,9 +5500,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 40.95154695062717,
-                "longitude": -73.89934761756277,
-                "isApproximated": false
+                "latitude": 41.06112794221458,
+                "longitude": -73.94747264164945,
+                "isApproximated": true
             }
         ]
     },
@@ -5650,7 +5650,7 @@
         ]
     },
     {
-        "name": "Tommy DiNic’s",
+        "name": "Tommy DiNic's",
         "type": "food",
         "geolocalisation": [
             {
@@ -5676,9 +5676,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 41.34174054101269,
-                "longitude": -81.84428881440279,
-                "isApproximated": false
+                "latitude": 41.427038482754135,
+                "longitude": -81.72406890948126,
+                "isApproximated": true
             }
         ]
     },
@@ -6017,9 +6017,9 @@
         "type": "urbex",
         "geolocalisation": [
             {
-                "latitude": 41.53574950643623,
-                "longitude": -72.67833990317887,
-                "isApproximated": false
+                "latitude": 41.515790807280894,
+                "longitude": -72.75232336117169,
+                "isApproximated": true
             }
         ]
     },

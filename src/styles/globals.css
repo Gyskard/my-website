@@ -44,3 +44,10 @@
     margin: 12px auto;
     font-size: 17px;
  }
+
+ .marker-text {
+    position: absolute;
+    bottom: 25px;
+    right: 0;
+    text-align: center
+ }
