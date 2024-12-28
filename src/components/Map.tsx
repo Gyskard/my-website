@@ -26,7 +26,8 @@ interface Point {
   geolocalisation: Array<Geolocalisation>
 }
 
-type Mode = 'location' | 'city'
+type Filter = 'location' | 'city'
+type Trip = 'northeastRoadtrip' | 'california' | 'canada'
 
 const iconMap: IconMap = {
   "walk": {
@@ -78,7 +79,7 @@ const iconMap: IconMap = {
     "text": "Monument, memoriel"
   },
   "religion": {
-    "icon": "fa-religion",
+    "icon": "fa-cross",
     "text": "Church, cross"
   },
   "national-park": {
@@ -162,11 +163,9 @@ const iconMap: IconMap = {
 export default function Map() {
   const mapContainer = useRef(null);
 
-  const [mode, setMode] = useState<Mode>('location')
-
-  function changeMode (mode: Mode) {
-    setMode(mode)
-  }
+  const [filter, setFilter] = useState<Filter>('location');
+  const [trip, setTrip] = useState<string>('northeastRoadtrip');
+  const [numberOfPoints, setNumberOfPoints] = useState<number>(0);
 
   useEffect(() => {
     if (!mapContainer.current) return;
@@ -191,8 +190,9 @@ export default function Map() {
 
     const marketGroup = []
 
-    if (mode === 'location') {
-      for (const point of points) {
+    if (filter === 'location') {
+      const tripPoints = points[trip as keyof typeof points] || [];
+      for (const point of tripPoints) {
         for (const geo of point.geolocalisation) {
           const marker = L.marker([geo.latitude, geo.longitude], { icon: getIcon(point.type)})
           marker.bindPopup(getDescription(point, geo)).openPopup();
@@ -201,7 +201,7 @@ export default function Map() {
         }
       }
     } else {
-      for (const city of cities) {
+      for (const city of cities[trip as keyof typeof points]) {
         const marker = L.marker([city.geolocalisation.latitude, city.geolocalisation.longitude], { icon: getIcon("") })
         marker.bindPopup(`<b>${city.name}</b>`).openPopup();
         marketGroup.push(marker)
@@ -209,24 +209,46 @@ export default function Map() {
       }
     }
 
-    map.fitBounds(new L.featureGroup(marketGroup).getBounds())
-
+    if (marketGroup.length > 0) map.fitBounds(new L.featureGroup(marketGroup).getBounds())
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", { attribution: "© OpenStreetMap" }).addTo(map);
 
+    setNumberOfPoints(marketGroup.length)
 
     return () => {
       map.remove()
     };
-  }, [mode]);
+  }, [filter, trip]);
 
   return (
     <div>
-      <div className="join mb-7 flex justify-center items-center gap-x-3">  
-        <button className={`btn btn-soft join-item btn-${mode === 'location' ? 'primary' : 'secondary'}`} onClick={() => changeMode('location')}>By location</button>
-        <button className={`btn btn-soft join-item btn-${mode === 'city' ? 'primary' : 'secondary'}`} onClick={() => changeMode('city')}>By city</button>
+      <div className="flex gap-2">
+        <select className="select join-item flex-none w-36" 
+          name="filter" 
+          value={filter}
+          onChange={(e) => setFilter(e.target.value as Filter)}
+        >
+
+          <option value="location">By location</option>
+          <option className={trip === 'canada' ? 'disabled' : ''} value="city">By city</option>
+        </select>
+        <select 
+          className="select join-item grow" 
+          name="trip" 
+          value={trip}
+          onChange={(e) => setTrip(e.target.value as Trip)}
+        >
+          <option value="northeastRoadtrip">Canada/USA Roadtrip (2024/2025)</option>
+          <option value="california">California Travel (2023)</option>
+          <option value="canada">Canada Travel (2022)</option>
+        </select>
       </div>
-      <div className="h-96 w-auto" ref={mapContainer} />
+      <div className="h-96 w-auto mt-5" ref={mapContainer} />
+      { numberOfPoints > 0 &&
+        <span className="mt-3 flex justify-center">
+          <i> {numberOfPoints} { filter === 'location' ? ' locations' : ' cities'}</i>
+        </span>
+      }
     </div>
   )
 }

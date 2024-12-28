@@ -6,11 +6,9 @@ export default function Travel() {
     function MapSkeleton() {
         return (
             <div>
-                <div className="mb-7 flex justify-center items-center gap-x-3">  
-                    <div className={`skeleton h-10 w-28	animate-pulse`} />
-                    <div className={`skeleton h-10 w-28	animate-pulse`} />
-                </div>
-                <div className={`skeleton h-96 w-auto animate-pulse`} />
+                <div className="mb-5 skeleton h-10 w-auto animate-pulse" />
+                <div className="skeleton h-96 w-auto animate-pulse" />
+                <div className="mt-3 skeleton h-6 w-20 animate-pulse mx-auto" />
             </div>
         )
     } 

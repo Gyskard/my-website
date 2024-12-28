@@ -25,11 +25,6 @@ export default function Header() {
                             <span className="icon-[tabler--camera] size-5"></span>Photos
                         </Link>
                     </li>
-                    <li>
-                        <Link href="/contact">
-                            <span className="icon-[tabler--phone-call] size-5"></span>Contact
-                        </Link>
-                    </li>
                 </ul>
             </div>
         </div>
