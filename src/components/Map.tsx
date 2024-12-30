@@ -246,7 +246,7 @@ export default function Map() {
       <div className="h-96 w-auto mt-5" ref={mapContainer} />
       { numberOfPoints > 0 &&
         <span className="mt-3 flex justify-center">
-          <i> {numberOfPoints} { filter === 'location' ? ' locations' : ' cities'}</i>
+          <i> {numberOfPoints} { filter === 'location' ? ' locations' : ' cities'} displayed</i>
         </span>
       }
     </div>

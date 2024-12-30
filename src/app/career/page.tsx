@@ -1,12 +1,23 @@
 import Resume from "@/components/Resume"
 import RickRolled from "@/components/RickRolled"
 import Social from "@/components/Social"
+import Link from "next/link"
 
 export default function Career () {
     const socialList: Array<string> = ["Linkedin", "Github"]
 
     function ShinyTech(props: { tech: string }) {
         return <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent font-black font-normal w-fit">{props.tech}</span>
+    }
+
+    function GithubButton(props: { projectName: string }) {
+        return (
+            <Link href={'https://github.com/Gyskard/' + props.projectName}>
+                <button className="btn btn-xs btn-soft mt-3">
+                    <span className="icon-[tabler--brand-github] size-4" />Check on Github
+                </button>
+            </Link>
+        )
     }
 
     return (
@@ -96,8 +107,10 @@ export default function Career () {
                         </ul>
                     </div>
                 </div>
-                <div className="divider divider-primary" />
-                <h1 className="text-xl font-bold mt-5">Education</h1>
+                <div className="flex justify-center items-center mt-1">
+                    <div className="divider divider-primary max-w-40" />
+                </div>
+                <h1 className="text-xl font-bold">Education</h1>
                 <div className="card w-full mt-6 shadow-none">
                     <div className="card-body p-0">
                         <div className="card-title mb-0 flex justify-between">
@@ -122,8 +135,10 @@ export default function Career () {
                         </div>
                     </div>
                 </div>
-                <div className="divider divider-primary mt-5" />
-                <h1 className="text-xl font-bold mt-5">Projects</h1>
+                <div className="flex justify-center items-center mt-1">
+                    <div className="divider divider-primary max-w-40" />
+                </div>
+                <h1 className="text-xl font-bold">Projects</h1>
                 <div className="card w-full mt-6 shadow-none">
                     <div className="card-body p-0">
                         <div className="card-title mb-0">
@@ -136,6 +151,7 @@ export default function Career () {
                         <p>
                             The first version of my website was made in 2017. I developed a new version in Jan 2025 that demonstrates my actual skills with Code Quality, Unit Tests, WCAG 2.1-compliant Accessibility and Flex Design.
                         </p>
+                        <GithubButton projectName="my-website" />
                     </div>
                 </div>
                 <div className="card w-full mt-6 shadow-none">
@@ -149,6 +165,7 @@ export default function Career () {
                         <p className="mt-2">
                             A quick project to convert Google Maps urls into markdown file for the Obsidian plugin MapView.
                         </p>
+                        <GithubButton projectName="obsidian-map-file-generator" />
                     </div>
                 </div>
                 <div className="card w-full mt-6 shadow-none">
@@ -162,6 +179,7 @@ export default function Career () {
                         <p className="mt-2">
                             A web application for storing events in a database and displaying them in a timeline. Made with functional tests and containerization. 
                         </p>
+                        <GithubButton projectName="my-journey" />
                     </div>
                 </div>
                 <div className="card w-full mt-6 shadow-none">
@@ -175,6 +193,7 @@ export default function Career () {
                         <p className="mt-2">
                             A web application to display computer informations (CPU, RAM, OS...) using HTTP and websocket.
                         </p>
+                        <GithubButton projectName="web-monitor" />
                     </div>
                 </div>
                 <div className="card w-full mt-6 shadow-none">
@@ -188,6 +207,7 @@ export default function Career () {
                         <p className="mt-2">
                             Little website made with django to follow my readings and future readings.
                         </p>
+                        <GithubButton projectName="my-readings" />
                     </div>
                 </div>
                 <div className="card w-full mt-6 shadow-none">
@@ -201,6 +221,7 @@ export default function Career () {
                         <p className="mt-2">
                             A powerful password generator. <br/>Yes, I know. jQuery and bootstrap... but it was in 2018!
                         </p>
+                        <GithubButton projectName="perfect-password" />
                     </div>
                 </div>
                 <div className="card w-full mt-6 shadow-none">
@@ -214,6 +235,7 @@ export default function Career () {
                         <p className="mt-2">
                             Simple and ugly snake game. <br/>No really, it&apos;s very ugly... but it&apos;s working very well!
                         </p>
+                        <GithubButton projectName="ugly-snake" />
                     </div>
                 </div>
             </div>

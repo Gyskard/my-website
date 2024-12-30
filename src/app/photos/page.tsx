@@ -51,7 +51,7 @@ export default function Photos() {
 
   useEffect(() => {
     getBlobs().then(response => {
-      const URLs = response.blobs.slice(1).map(blob => blob.url)
+      const URLs = response.blobs.slice(1).map(blob => blob.url).reverse()
       setNumberOfPages(Math.ceil(URLs.length / numberOfPhotosByPage))
       setDisplayedURL(URLs.slice(0, numberOfPhotosByPage))
       setAllURL(URLs)
