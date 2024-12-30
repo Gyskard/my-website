@@ -7,7 +7,9 @@ export default function Home() {
     <div>
       <Bio />
       <Social />
-      <Resume />
+      <div className="mt-11">
+        <Resume isHome />
+      </div>
     </div>
   );
 }
