@@ -6,6 +6,10 @@ interface Media {
   url: string
 }
 
+interface Props {
+  list?: Array<string>
+}
+
 const medias: Array<Media> = [
   {
     name: "Linkedin",
@@ -34,9 +38,9 @@ const medias: Array<Media> = [
   }
 ];
 
-export default function Social(props: { list?: Array<string> }) {
+export default function Social(props: Props) {
     return (
-        <div className="flex justify-center w-full flex-wrap gap-2 mt-7">
+        <div className="flex justify-center w-full flex-wrap gap-2 mt-5">
             {medias
               // if there no list props, display all the medias
               // if there is a list props, display only the media in the list

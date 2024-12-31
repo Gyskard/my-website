@@ -11,10 +11,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head></head>
+      <head />
       <body className="vertical-scrollbar">
         <Header />
-        {children}
+        <div className="flex justify-center my-7">
+          <div className="max-w-xl w-full">
+            {children}
+          </div>
+        </div>
       </body>
       <FlyonuiScript />
       <Script src="https://kit.fontawesome.com/85e1ea9dc5.js" crossOrigin="anonymous" />

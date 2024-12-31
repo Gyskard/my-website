@@ -1,11 +1,13 @@
 import Link from "next/link";
 
-const resumeLink = process.env.RESUME_URL ?? ''
+interface Props {
+    isHome?: boolean
+}
 
-export default function Resume(props: { isHome?: boolean }) {
+export default function Resume(props: Props) {
     return (
-        <div className="flex items-center flex-col justify-center">
-            <Link href={resumeLink}>
+        <div className="flex items-center flex-col justify-center mt-4">
+            <Link href={process.env.RESUME_URL ?? ''}>
                 <button className="btn btn-gradient btn-sm btn-primary">
                     <span className="icon-[tabler--file-text] size-5" />
                     Get My Resume

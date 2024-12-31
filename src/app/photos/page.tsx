@@ -7,6 +7,7 @@ import ImageDisplay from "@/components/ImageDisplay";
 
 import { useEffect, useState } from "react";
 import { getBlobs } from "./actions";
+import PageDescription from "@/components/PageDescription";
 
 export default function Photos() {
   const socialList: Array<string> = ["Flickr", "Instagram"]
@@ -63,35 +64,26 @@ export default function Photos() {
   }, [currentPage, numberOfPages]);
 
   return (
-    <div className="flex justify-center items-center flex-col mt-6">
-      <div className="w-full max-w-xl px-4">
-        <div className="text-left">
-          <h1 className="text-2xl font-bold">Photos</h1>
-          <p className="text-lg">You can see some of my photos in this gallery.</p>
-        </div>
-        <div className="mt-10">
-          <Social list={socialList}/>
-        </div>
-        <div className="text-center mt-6">
-          <p className="text-lg mb-3"><ins>My stuff</ins></p>
-          <p>📸 Sony Alpha A6400 (APS-C)</p>
-          <p>SIGMA 18-50mm F2.8 DC DN</p>
-          <p>Sony E 70–350mm F4.5-6.3 G OSS</p>
-        </div>
+    <>
+      <PageDescription title="Photos" description="You can see some of my photos in this gallery." />
+      <Social list={socialList}/>
+      <div className="text-center mt-6 mb-10">
+        <p className="text-lg mb-3"><ins>My stuff</ins></p>
+        <p>📸 Sony Alpha A6400 (APS-C)</p>
+        <p>SIGMA 18-50mm F2.8 DC DN</p>
+        <p>Sony E 70–350mm F4.5-6.3 G OSS</p>
       </div>
-      <div className="mt-10 mb-5 max-w-4xl">
-        <div className="flex flex-row flex-wrap gap-5 items-center justify-center">
-          { displayedURL.map((url, index) => <ImageDisplay key={index} src={url} />)}
-        </div>
-        <nav className="flex items-center justify-center gap-2 mt-8 mb-1">
-          { numberOfPages === 0 && <div className={`skeleton h-10 w-96 animate-pulse`} /> }
-          { numberOfPages > 0 && <>
-            <PreviousButton />
-            {buttonRow}
-            <NextButton />
-          </>}
-        </nav> 
+      <div className="flex flex-row flex-wrap gap-4 justify-center">
+        { displayedURL.map((url, index) => <ImageDisplay key={index} src={url} />)}
       </div>
-    </div>
+      <nav className="flex items-center justify-center gap-2 mt-8">
+        { numberOfPages === 0 && <div className={`skeleton h-10 w-96 animate-pulse`} /> }
+        { numberOfPages > 0 && <>
+          <PreviousButton />
+          {buttonRow}
+          <NextButton />
+        </>}
+      </nav> 
+    </>
   );
 }
