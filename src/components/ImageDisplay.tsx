@@ -1,21 +1,23 @@
-import Image from 'next/image'
-import { useEffect, useState } from 'react';
+import Image from "next/image";
+import { useEffect, useState } from "react";
 
 interface Props {
-    src: string
+  src: string;
 }
 
 export default function Photos(props: Props) {
   const [isLoading, setIsLoading] = useState(true);
 
   useEffect(() => {
-    setIsLoading(true)
+    setIsLoading(true);
   }, [props.src]);
 
   return (
     <>
-      { (props.src === "" || isLoading ) && <div className={`skeleton h-64 w-64 animate-pulse`} /> }
-      { props.src !== "" && 
+      {(props.src === "" || isLoading) && (
+        <div className={`skeleton h-64 w-64 animate-pulse`} />
+      )}
+      {props.src !== "" && (
         <Image
           src={props.src}
           alt="photos"
@@ -25,7 +27,7 @@ export default function Photos(props: Props) {
           onLoad={() => setIsLoading(false)}
           className={`${isLoading && "hidden"}`}
         />
-      }
+      )}
     </>
   );
 }

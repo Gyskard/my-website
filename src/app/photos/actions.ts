@@ -1,7 +1,7 @@
-'use server';
+"use server";
 
-import { list } from '@vercel/blob';
+import { list } from "@vercel/blob";
 
 export async function getBlobs() {
-  return await list({ prefix: 'gallery/' })
+  return await list({ prefix: "gallery/" });
 }

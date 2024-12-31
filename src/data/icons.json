@@ -1,130 +1,130 @@
 {
-    "walk": {
-      "icon": "fa-hiking",
-      "text": "Walk, hike"
-    },
-    "photo": {
-      "icon": "fa-camera",
-      "text": "Viewpoint, photo spot, belvedere"
-    },
-    "building": {
-      "icon": "fa-building",
-      "text": "Building, hall, mall"
-    },
-    "urbex": {
-      "icon": "fa-ghost",
-      "text": "Exploration, abandoned place/object"
-    },
-    "art": {
-      "icon": "fa-paintbrush",
-      "text": "Works of art"
-    },
-    "station": {
-      "icon": "fa-train",
-      "text": "Train station, train"
-    },
-    "food": {
-      "icon": "fa-utensils",
-      "text": "Restaurant, bakery, shop"
-    },
-    "lighthouse": {
-      "icon": "fa-lightbulb",
-      "text": "Lighthouse"
-    },
-    "port": {
-      "icon": "fa-anchor",
-      "text": "Port"
-    },
-    "museum": {
-      "icon": "fa-building-columns",
-      "text": "Museum"
-    },
-    "park": {
-      "icon": "fa-tree-city",
-      "text": "Park, garden, special area"
-    },
-    "monument": {
-      "icon": "fa-monument",
-      "text": "Monument, memoriel"
-    },
-    "religion": {
-      "icon": "fa-cross",
-      "text": "Church, cross"
-    },
-    "national-park": {
-      "icon": "fa-mountain",
-      "text": "National park, provincial park, state park, park"
-    },
-    "water": {
-      "icon": "fa-water",
-      "text": "Falls, lake, pond, river"
-    },
-    "tunnel": {
-      "icon": "fa-car-tunnel",
-      "text": "Tunnel, car tunnel, train tunnel"
-    },
-    "airport": {
-      "icon": "fa-plane-departure",
-      "text": "Airport, air show"
-    },
-    "castle": {
-      "icon": "fa-chess-rook",
-      "text": "Castle"
-    },
-    "bridge": {
-      "icon": "fa-bridge",
-      "text": "Bridge"
-    },
-    "cave": {
-      "icon": "fa-icicles",
-      "text": "Cave, mine"
-    },
-    "boat": {
-      "icon": "fa-ship",
-      "text": "Boat"
-    },
-    "street": {
-      "icon": "fa-signs-post",
-      "text": "Street, alley"
-    },
-    "plane": {
-      "icon": "fa-plane",
-      "text": "Plane"
-    },
-    "train": {
-      "icon": "fa-train",
-      "text": "Train"
-    },
-    "capitol": {
-      "icon": "fa-landmark-flag",
-      "text": "Capitol, state capitol"
-    },
-    "library": {
-      "icon": "fa-book",
-      "text": "Library"
-    },
-    "text": {
-      "icon": "fa-comment",
-      "text": "Sign"
-    },
-    "sailbot": {
-      "icon": "fa-sailbot",
-      "text": "Sailtbot"
-    },
-    "telepherique": {
-      "icon": "fa-cable-car",
-      "text": "Telepherique"
-    },
-    "heliport": {
-      "icon": "fa-helicopter",
-      "text": "Heliport, helicopter"
-    },
-    "beach": {
-      "icon": "fa-umbrella-beach",
-      "text": "Beach"
-    },
-    "stairs": {
-      "icon": "fa-stairs",
-      "text": "Stairs"
-    }
+  "walk": {
+    "icon": "fa-hiking",
+    "text": "Walk, hike"
+  },
+  "photo": {
+    "icon": "fa-camera",
+    "text": "Viewpoint, photo spot, belvedere"
+  },
+  "building": {
+    "icon": "fa-building",
+    "text": "Building, hall, mall"
+  },
+  "urbex": {
+    "icon": "fa-ghost",
+    "text": "Exploration, abandoned place/object"
+  },
+  "art": {
+    "icon": "fa-paintbrush",
+    "text": "Works of art"
+  },
+  "station": {
+    "icon": "fa-train",
+    "text": "Train station, train"
+  },
+  "food": {
+    "icon": "fa-utensils",
+    "text": "Restaurant, bakery, shop"
+  },
+  "lighthouse": {
+    "icon": "fa-lightbulb",
+    "text": "Lighthouse"
+  },
+  "port": {
+    "icon": "fa-anchor",
+    "text": "Port"
+  },
+  "museum": {
+    "icon": "fa-building-columns",
+    "text": "Museum"
+  },
+  "park": {
+    "icon": "fa-tree-city",
+    "text": "Park, garden, special area"
+  },
+  "monument": {
+    "icon": "fa-monument",
+    "text": "Monument, memoriel"
+  },
+  "religion": {
+    "icon": "fa-cross",
+    "text": "Church, cross"
+  },
+  "national-park": {
+    "icon": "fa-mountain",
+    "text": "National park, provincial park, state park, park"
+  },
+  "water": {
+    "icon": "fa-water",
+    "text": "Falls, lake, pond, river"
+  },
+  "tunnel": {
+    "icon": "fa-car-tunnel",
+    "text": "Tunnel, car tunnel, train tunnel"
+  },
+  "airport": {
+    "icon": "fa-plane-departure",
+    "text": "Airport, air show"
+  },
+  "castle": {
+    "icon": "fa-chess-rook",
+    "text": "Castle"
+  },
+  "bridge": {
+    "icon": "fa-bridge",
+    "text": "Bridge"
+  },
+  "cave": {
+    "icon": "fa-icicles",
+    "text": "Cave, mine"
+  },
+  "boat": {
+    "icon": "fa-ship",
+    "text": "Boat"
+  },
+  "street": {
+    "icon": "fa-signs-post",
+    "text": "Street, alley"
+  },
+  "plane": {
+    "icon": "fa-plane",
+    "text": "Plane"
+  },
+  "train": {
+    "icon": "fa-train",
+    "text": "Train"
+  },
+  "capitol": {
+    "icon": "fa-landmark-flag",
+    "text": "Capitol, state capitol"
+  },
+  "library": {
+    "icon": "fa-book",
+    "text": "Library"
+  },
+  "text": {
+    "icon": "fa-comment",
+    "text": "Sign"
+  },
+  "sailbot": {
+    "icon": "fa-sailbot",
+    "text": "Sailtbot"
+  },
+  "telepherique": {
+    "icon": "fa-cable-car",
+    "text": "Telepherique"
+  },
+  "heliport": {
+    "icon": "fa-helicopter",
+    "text": "Heliport, helicopter"
+  },
+  "beach": {
+    "icon": "fa-umbrella-beach",
+    "text": "Beach"
+  },
+  "stairs": {
+    "icon": "fa-stairs",
+    "text": "Stairs"
   }
+}
