@@ -9,11 +9,16 @@ import { useEffect, useState } from "react";
 import { getBlobs } from "./actions";
 import PageDescription from "@/components/PageDescription";
 
+interface Blob {
+  url: string;
+  alt: string;
+}
+
 export default function Photos() {
   const socialList: Array<string> = ["Flickr", "Instagram"];
   const numberOfPhotosByPage: number = 4;
 
-  const [allURL, setAllURL] = useState(Array<string>);
+  const [allURL, setAllURL] = useState(Array<Blob>);
   const [displayedURL, setDisplayedURL] = useState(
     Array(numberOfPhotosByPage).fill(""),
   );
@@ -79,7 +84,9 @@ export default function Photos() {
         .slice(1)
         .sort(() => Math.random() - Math.random())
         .slice(0, 12)
-        .map((blob) => blob.url)
+        .map(blob => {
+          return { url: blob.url, alt: blob.pathname.substring(8, blob.pathname.length - 4) }
+        })
       setNumberOfPages(Math.ceil(URLs.length / numberOfPhotosByPage));
       setDisplayedURL(URLs.slice(0, numberOfPhotosByPage));
       setAllURL(URLs);
@@ -106,8 +113,8 @@ export default function Photos() {
         <p>Sony E 70–350mm F4.5-6.3 G OSS</p>
       </div>
       <div className="flex flex-row flex-wrap gap-4 justify-center">
-        {displayedURL.map((url, index) => (
-          <ImageDisplay key={index} src={url} />
+        {displayedURL.map((blob, index) => (
+          <ImageDisplay key={index} blob={blob} />
         ))}
       </div>
       <nav className="flex items-center justify-center gap-2 mt-8">

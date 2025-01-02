@@ -10,8 +10,8 @@ export default function RickRolled() {
 
   return (
     <div className="flex justify-center mt-10 mb-7 items-center">
-      <button className="btn btn-primary btn-soft" onClick={() => rickRolled()}>
-        Don&apos;t click on this button please
+      <button className="btn btn-secondary" onClick={() => rickRolled()}>
+        Don&apos;t click on this button
       </button>
     </div>
   );

@@ -75,8 +75,9 @@ export default function Map() {
     <>
       <div className="flex gap-2 mt-7">
         <select
-          className="select join-item flex-none w-36"
+          className="select select-floating join-item flex-none w-36"
           name="filter"
+          aria-label="Select by location or city"
           value={filter}
           onChange={(e) => setFilter(e.target.value as Filter)}
         >
@@ -86,8 +87,9 @@ export default function Map() {
           </option>
         </select>
         <select
-          className="select join-item grow truncate pr-5"
+          className="select select-floating join-item grow truncate pr-5"
           name="trip"
+          aria-label="Select by a trip"
           value={trip}
           onChange={(e) => setTrip(e.target.value)}
         >

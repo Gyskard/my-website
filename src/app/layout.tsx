@@ -16,9 +16,9 @@ export default function RootLayout({
       </head>
       <body className="vertical-scrollbar px-5">
         <Header />
-        <div className="flex justify-center my-7">
+        <main className="flex justify-center my-7">
           <div className="max-w-xl w-full">{children}</div>
-        </div>
+        </main>
       </body>
       <FlyonuiScript />
       <Script

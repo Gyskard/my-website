@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <div className="flex justify-center items-center mt-4">
+    <nav className="flex justify-center items-center mt-4">
       <ul className="menu menu-horizontal px-0 sm:space-x-0.5 menu-xs sm:menu-lg">
         <li>
           <Link href="/" className="px-1 sm:px-4">
@@ -29,6 +29,6 @@ export default function Header() {
           </Link>
         </li>
       </ul>
-    </div>
+    </nav>
   );
 }

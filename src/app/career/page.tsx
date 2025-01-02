@@ -3,6 +3,12 @@ import Resume from "@/components/Resume";
 import RickRolled from "@/components/RickRolled";
 import Social from "@/components/Social";
 import Link from "next/link";
+import type { Metadata } from 'next'
+ 
+export const metadata: Metadata = {
+  title: 'Thomas M - Career',
+  description: '...',
+}
 
 export default function Career() {
   const socialList: Array<string> = ["Linkedin", "Github"];
@@ -38,12 +44,12 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h5 className="text-lg mr-5">Front-end developer</h5>
-            <h5 className="text-base">Montreal, Canada</h5>
+            <h2 className="text-lg mr-5">Front-end developer</h2>
+            <span className="text-base">Montreal, Canada</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Bell (consulting through Talan)</div>
-            <div className="text-base-content/50">Nov 2022 - June 2024</div>
+            <div className="text-base">Nov 2022 - June 2024</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
@@ -76,12 +82,12 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h5 className="text-lg mr-5">Software engineer (alternanceship)</h5>
-            <h5 className="text-base">Paris Region, France</h5>
+            <h2 className="text-lg mr-5">Software engineer (alternanceship)</h2>
+            <span className="text-base">Paris Region, France</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Thales</div>
-            <div className="text-base-content/50">Sept 2019 - Aug 2022</div>
+            <div className="text-base">Sept 2019 - Aug 2022</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
@@ -117,12 +123,12 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h5 className="text-lg  mr-5">Developer (internship)</h5>
-            <h5 className="text-base shrink-0">Paris Region, France</h5>
+            <h2 className="text-lg  mr-5">Developer (internship)</h2>
+            <span className="text-base shrink-0">Paris Region, France</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Orange</div>
-            <div className="text-base-content/50">Apr 2019 - Aug 2019</div>
+            <div className="text-base">Apr 2019 - Aug 2019</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
@@ -141,26 +147,26 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h5 className="text-lg mr-5">Computer Science Engineering Degree</h5>
-            <h5 className="text-base shrink-0">Belfort, France</h5>
+            <h2 className="text-lg mr-5">Computer Science Engineering Degree</h2>
+            <span className="text-base shrink-0">Belfort, France</span>
           </div>
           <div className="flex justify-between">
-            <div className="text-base-content/50">UTBM</div>
-            <div className="text-base-content/50">2019 - 2022</div>
+            <div className="text-base">UTBM</div>
+            <div className="text-base">2019 - 2022</div>
           </div>
         </div>
       </div>
       <div className="card w-full shadow-none mt-2">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h5 className="text-lg mr-5">
+            <h2 className="text-lg mr-5">
               University Diploma in Networks and Telecoms
-            </h5>
-            <h5 className="text-base shrink-0">Grenoble, France</h5>
+            </h2>
+            <span className="text-base shrink-0">Grenoble, France</span>
           </div>
           <div className="flex justify-between">
-            <div className="text-base-content/50">UGA</div>
-            <div className="text-base-content/50">2017 - 2019</div>
+            <div className="text-base">UGA</div>
+            <div className="text-base">2017 - 2019</div>
           </div>
         </div>
       </div>
@@ -171,9 +177,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">My website</h5>
+            <h2 className="text-lg">My website</h2>
           </div>
-          <div className="text-base-content/50 mt-1">
+          <div className="text-base mt-1">
             <ShinyTech tech="NextJS" />, TypeScript, <ShinyTech tech="React" />,
             Tailwind CSS, Vercel
           </div>
@@ -192,9 +198,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">Obsidian Map File Generator</h5>
+            <h2 className="text-lg">Obsidian Map File Generator</h2>
           </div>
-          <div className="text-base-content/50 mt-1">
+          <div className="text-base mt-1">
             <ShinyTech tech="Vue 3" />, Pinia, TypeScript, Element Plus, Jest
           </div>
           <p className="mt-2">
@@ -207,9 +213,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">My Journey</h5>
+            <h2 className="text-lg">My Journey</h2>
           </div>
-          <div className="text-base-content/50 mt-1">
+          <div className="text-base mt-1">
             <ShinyTech tech="React" />, TypeScript, NodeJS,{" "}
             <ShinyTech tech="PostgreSQL" />, Sequelize, Docker, Karate
           </div>
@@ -223,9 +229,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">Web monitor</h5>
+            <h2 className="text-lg">Web monitor</h2>
           </div>
-          <div className="text-base-content/50 mt-1">
+          <div className="text-base mt-1">
             <ShinyTech tech="Vue 2" />, FastAPI, Python
           </div>
           <p className="mt-2">
@@ -238,9 +244,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">My readings</h5>
+            <h2 className="text-lg">My readings</h2>
           </div>
-          <div className="text-base-content/50 mt-1">Django</div>
+          <div className="text-base mt-1">Django</div>
           <p className="mt-2">
             Little website made with django to follow my readings and future
             readings.
@@ -251,9 +257,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">Perfect Password</h5>
+            <h2 className="text-lg">Perfect Password</h2>
           </div>
-          <div className="text-base-content/50 mt-1">jQuery, Bootstrap</div>
+          <div className="text-base mt-1">jQuery, Bootstrap</div>
           <p className="mt-2">
             A powerful password generator. <br />
             Yes, I know. jQuery and bootstrap... but it was in 2018!
@@ -264,9 +270,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
-            <h5 className="text-lg">Ugly Snake</h5>
+            <h2 className="text-lg">Ugly Snake</h2>
           </div>
-          <div className="text-base-content/50 mt-1">Python</div>
+          <div className="text-base mt-1">Python</div>
           <p className="mt-2">
             Simple and ugly snake game. <br />
             No really, it&apos;s very ugly... but it&apos;s working very well!

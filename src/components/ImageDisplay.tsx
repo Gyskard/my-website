@@ -2,7 +2,10 @@ import Image from "next/image";
 import { useEffect, useState } from "react";
 
 interface Props {
-  src: string;
+  blob: {
+    url: string;
+    alt: string;
+  }
 }
 
 export default function Photos(props: Props) {
@@ -10,17 +13,17 @@ export default function Photos(props: Props) {
 
   useEffect(() => {
     setIsLoading(true);
-  }, [props.src]);
+  }, [props.blob.url]);
 
   return (
     <>
-      {(props.src === "" || isLoading) && (
+      {(!props.blob || isLoading) && (
         <div className={`skeleton h-64 w-64 animate-pulse`} />
       )}
-      {props.src !== "" && (
+      {props.blob && (
         <Image
-          src={props.src}
-          alt="photos"
+          src={props.blob.url}
+          alt={props.blob.alt}
           width={256}
           height={256}
           priority
