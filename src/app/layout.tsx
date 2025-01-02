@@ -11,8 +11,10 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <head />
-      <body className="vertical-scrollbar">
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      </head>
+      <body className="vertical-scrollbar px-5">
         <Header />
         <div className="flex justify-center my-7">
           <div className="max-w-xl w-full">{children}</div>

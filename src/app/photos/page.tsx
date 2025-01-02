@@ -77,8 +77,9 @@ export default function Photos() {
     getBlobs().then((response) => {
       const URLs = response.blobs
         .slice(1)
+        .sort(() => Math.random() - Math.random())
+        .slice(0, 12)
         .map((blob) => blob.url)
-        .reverse();
       setNumberOfPages(Math.ceil(URLs.length / numberOfPhotosByPage));
       setDisplayedURL(URLs.slice(0, numberOfPhotosByPage));
       setAllURL(URLs);
@@ -93,7 +94,7 @@ export default function Photos() {
     <>
       <PageDescription
         title="Photos"
-        description="You can see some of my photos in this gallery."
+        description="You can see a random selection of my photos in this gallery."
       />
       <Social list={socialList} />
       <div className="text-center mt-6 mb-10">
@@ -111,7 +112,7 @@ export default function Photos() {
       </div>
       <nav className="flex items-center justify-center gap-2 mt-8">
         {numberOfPages === 0 && (
-          <div className={`skeleton h-10 w-96 animate-pulse`} />
+          <div className={`skeleton h-10 w-80 animate-pulse`} />
         )}
         {numberOfPages > 0 && (
           <>

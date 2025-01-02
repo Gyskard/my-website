@@ -5,20 +5,19 @@ import Image from "next/image";
 export default function Home() {
   return (
     <>
-      <div className="flex flex-row justify-between items-center mb-10">
+      <div className="flex flex-col sm:flex-row justify-between items-center mb-10">
         <div>
           <h1 className="text-2xl font-semibold">Hey, I&#39;m Thomas.</h1>
-          <p className="text-base mt-2">
+          <p className="text-lg mt-2">
             I&#39;m a{" "}
             <a className="bg-gradient-to-r from-primary to-error bg-clip-text text-transparent">
               front-end developer
             </a>
-            , currently doing a roadtrip. <br />I will soon be looking for a new
-            work experience.
+            , currently doing a roadtrip.
           </p>
-          <p className="text-base mt-3">Welcome on my personal website 🙂</p>
+          <p className="mt-3 text-lg">Welcome on my personal website 🙂</p>
         </div>
-        <div className="avatar size-28 mask mask-hexagon-2">
+        <div className="max-sm:mt-5 avatar size-28 mask mask-hexagon-2">
           <Image
             src="/me.jpg"
             width={112}

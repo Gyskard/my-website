@@ -86,14 +86,12 @@ export default function Map() {
           </option>
         </select>
         <select
-          className="select join-item grow"
+          className="select join-item grow truncate pr-5"
           name="trip"
           value={trip}
           onChange={(e) => setTrip(e.target.value)}
         >
-          <option value="northeastRoadtrip">
-            Canada/USA Roadtrip (2024/2025)
-          </option>
+          <option value="northeastRoadtrip">Canada/USA Roadtrip (2024/2025)</option>
           <option value="california">California Travel (2023)</option>
           <option value="canada">Canada Travel (2022)</option>
         </select>

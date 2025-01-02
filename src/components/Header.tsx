@@ -2,30 +2,30 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <div className="container mx-auto mt-4 flex justify-center">
-      <ul className="menu menu-horizontal space-x-0.5 rtl:space-x-reverse">
+    <div className="flex justify-center items-center mt-4">
+      <ul className="menu menu-horizontal px-0 sm:space-x-0.5 menu-xs sm:menu-lg">
         <li>
-          <Link href="/">
-            <span className="icon-[tabler--home] size-5" />
-            Home
+          <Link href="/" className="px-1 sm:px-4">
+            <span className="icon-[tabler--home] size-3 fold:size-4 pixel:size-5" />
+            <span className="text-base">Home</span>
           </Link>
         </li>
         <li>
-          <Link href="/career">
-            <span className="icon-[tabler--device-desktop-analytics] size-5" />
-            Career
+          <Link href="/career" className="px-1 sm:px-4">
+            <span className="icon-[tabler--device-desktop-analytics] size-3 fold:size-4 pixel:size-5" />
+            <span className="text-base">Career</span>
           </Link>
         </li>
         <li>
-          <Link href="/travel">
-            <span className="icon-[tabler--globe-filled] size-5" />
-            Travel
+          <Link href="/travel" className="px-1 sm:px-4">
+            <span className="icon-[tabler--globe-filled] size-3 fold:size-4 pixel:size-5" />
+            <span className="text-base">Travel</span>
           </Link>
         </li>
         <li>
-          <Link href="/photos">
-            <span className="icon-[tabler--camera] size-5" />
-            Photos
+          <Link href="/photos" className="px-1 sm:px-4">
+            <span className="icon-[tabler--camera] size-3 fold:size-4 pixel:size-5" />
+            <span className="text-base">Photos</span>
           </Link>
         </li>
       </ul>

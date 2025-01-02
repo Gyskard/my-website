@@ -50,7 +50,7 @@ export default function Social(props: Props) {
         .map((media: Media, index) => (
           <Link key={index} href={media.url}>
             <button className="btn btn-sm btn-outline text-[#b5b5b5] hover:border-[#b5b5b5] hover:bg-[#b5b5b5]/10">
-              <span className={media.icon}></span>
+              <span className={media.icon} />
               {media.name}
             </button>
           </Link>
