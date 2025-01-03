@@ -40,21 +40,23 @@ const medias: Array<Media> = [
 
 export default function Social(props: Props) {
   return (
-    <div className="flex justify-center w-full flex-wrap gap-2 mt-5">
-      {medias
-        // if there no list props, display all the medias
-        // if there is a list props, display only the media in the list
-        .filter(
-          (media: Media) => !props.list || props.list.includes(media.name),
-        )
-        .map((media: Media, index) => (
-          <Link key={index} href={media.url}>
-            <button className="btn btn-sm btn-outline text-[#b5b5b5] hover:border-[#b5b5b5] hover:bg-[#b5b5b5]/10">
-              <span className={media.icon} />
-              {media.name}
-            </button>
-          </Link>
-        ))}
-    </div>
+    <div className="w-auto min-[440px]:w-96 sm:w-full mx-auto">
+        <div className="flex justify-center items-center flex-wrap gap-2 mt-5">
+          {medias
+            // if there no list props, display all the medias
+            // if there is a list props, display only the media in the list
+            .filter(
+              (media: Media) => !props.list || props.list.includes(media.name),
+            )
+            .map((media: Media, index) => (
+              <Link key={index} href={media.url}>
+                <button className="btn btn-sm btn-outline text-[#b5b5b5] hover:border-[#b5b5b5] hover:bg-[#b5b5b5]/10">
+                  <span className={media.icon} />
+                  {media.name}
+                </button>
+              </Link>
+            ))}
+        </div>
+      </div>
   );
 }
