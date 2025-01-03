@@ -6,8 +6,8 @@ import PhotoComponent from "@/components/photos/PhotosManager";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Thomas M - Career",
-  description: "...",
+  title: "Thomas Margueritat",
+  description: "Photos : you can see a random selection of my photos in this gallery.",
 };
 
 export default function Photos() {

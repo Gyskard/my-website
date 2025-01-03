@@ -6,8 +6,8 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Thomas M - Career",
-  description: "...",
+  title: "Thomas Margueritat",
+  description: "Career : my professional background and my projects.",
 };
 
 export default function Career() {

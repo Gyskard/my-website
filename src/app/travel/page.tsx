@@ -4,8 +4,8 @@ import PageDescription from "@/components/PageDescription";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Thomas M - Travel",
-  description: "...",
+  title: "Thomas Margueritat",
+  description: "Travel : my love for travel and cartography on a single page.",
 };
 
 export default function Travel() {
