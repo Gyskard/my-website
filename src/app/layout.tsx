@@ -13,9 +13,9 @@ export default function RootLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </head>
-      <body className="vertical-scrollbar px-5">
+      <body className="vertical-scrollbar">
         <Header />
-        <main className="flex justify-center my-7">
+        <main className="flex justify-center mt-10 mb-5 px-5">
           <div className="max-w-xl w-full">{children}</div>
         </main>
       </body>
