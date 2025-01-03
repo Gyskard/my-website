@@ -5,6 +5,7 @@ import cities from "@/data/cities.json";
 import icons from "@/data/icons.json";
 import "leaflet/dist/leaflet.css";
 import "@/styles/map.css";
+import Script from "next/script";
 
 type Filter = "location" | "city";
 
@@ -113,6 +114,7 @@ export default function Map() {
           </i>
         </span>
       )}
+      <Script src="https://kit.fontawesome.com/85e1ea9dc5.js" crossOrigin="anonymous" />
     </>
   );
 }
