@@ -114,7 +114,10 @@ export default function Map() {
           </i>
         </span>
       )}
-      <Script src="https://kit.fontawesome.com/85e1ea9dc5.js" crossOrigin="anonymous" />
+      <Script
+        src="https://kit.fontawesome.com/85e1ea9dc5.js"
+        crossOrigin="anonymous"
+      />
     </>
   );
 }
