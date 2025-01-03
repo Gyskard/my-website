@@ -1,6 +1,6 @@
 import PageDescription from "@/components/PageDescription";
 import Resume from "@/components/Resume";
-import RickRolled from "@/components/RickRolled";
+import RickRolled from "@/components/career/RickRolled";
 import Social from "@/components/Social";
 import Link from "next/link";
 import type { Metadata } from "next";

@@ -13,7 +13,7 @@ export default function MapComponent() {
     );
   }
 
-  const Map = dynamic(() => import("@/components/Map"), {
+  const Map = dynamic(() => import("./Map"), {
     ssr: false,
     loading: () => MapSkeleton(),
   });

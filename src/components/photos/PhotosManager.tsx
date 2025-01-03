@@ -2,10 +2,10 @@
 
 "use client";
 
-import ImageDisplay from "@/components/ImageDisplay";
+import ImageDisplay from "@/components/photos/Photo";
 
 import { useEffect, useState } from "react";
-import { getBlobs } from "../app/photos/actions";
+import { getBlobs } from "../../app/photos/actions";
 
 interface Blob {
   url: string;

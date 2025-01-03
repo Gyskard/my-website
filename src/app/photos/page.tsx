@@ -2,7 +2,7 @@
 
 import Social from "@/components/Social";
 import PageDescription from "@/components/PageDescription";
-import PhotoComponent from "@/components/PhotoComponent";
+import PhotoComponent from "@/components/photos/PhotosManager";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
