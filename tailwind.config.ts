@@ -2,11 +2,11 @@
 module.exports = {
   theme: {
     screens: {
-      'fold': '353px',
-      'pixel': '370px',
-      'sm': '640px',
-      'md': '768px',
-      'lg': '1024px',
+      fold: "353px",
+      pixel: "370px",
+      sm: "640px",
+      md: "768px",
+      lg: "1024px",
     },
   },
   content: [

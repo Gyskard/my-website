@@ -16,7 +16,7 @@ export default function Resume(props: Props) {
 
       {props.isHome && (
         <span className="mt-2 text-sm">
-          <em>Or check the Career page.</em>      
+          <em>Or check the Career page.</em>
         </span>
       )}
     </div>

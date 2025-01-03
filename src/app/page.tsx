@@ -1,12 +1,12 @@
 import Resume from "@/components/Resume";
 import Social from "@/components/Social";
 import Image from "next/image";
-import type { Metadata } from 'next'
- 
+import type { Metadata } from "next";
+
 export const metadata: Metadata = {
-  title: 'Thomas M - My Website',
-  description: '...',
-}
+  title: "Thomas M - My Website",
+  description: "...",
+};
 
 export default function Home() {
   return (

@@ -21,7 +21,7 @@ export default function Map() {
 
     function getIcon(type: string): L.DivIcon {
       return L.divIcon({
-        html: `<div class='marker-pin'></div><i class='fa ${icons?.[type as keyof typeof icons]?.icon || "fa-circle"} awesome'>`,
+        html: `<div class='marker-pin' aria-label="${type}"></div><i class='fa ${icons?.[type as keyof typeof icons]?.icon || "fa-circle"} awesome'>`,
         iconSize: [30, 42],
         iconAnchor: [15, 42],
         className: "custom-div-icon",
@@ -36,6 +36,7 @@ export default function Map() {
         for (const geo of point.geolocalisation) {
           const marker = L.marker([geo.latitude, geo.longitude], {
             icon: getIcon(point.type),
+            alt: point.name,
           });
           let description = `<b>${point.name}</b><br><u>Category</u>: ${icons[point.type as keyof typeof icons]?.text || "Place, uncategorized"}`;
           if (geo.isApproximated)
@@ -49,7 +50,7 @@ export default function Map() {
       for (const city of cities[trip as keyof typeof points]) {
         const marker = L.marker(
           [city.geolocalisation.latitude, city.geolocalisation.longitude],
-          { icon: getIcon("") },
+          { icon: getIcon(""), alt: city.name },
         );
         marker.bindPopup(`<b>${city.name}</b>`).openPopup();
         marketGroup.push(marker);
@@ -62,6 +63,7 @@ export default function Map() {
 
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "© OpenStreetMap",
+      detectRetina: true,
     }).addTo(map);
 
     setNumberOfPoints(marketGroup.length);
@@ -93,7 +95,9 @@ export default function Map() {
           value={trip}
           onChange={(e) => setTrip(e.target.value)}
         >
-          <option value="northeastRoadtrip">Canada/USA Roadtrip (2024/2025)</option>
+          <option value="northeastRoadtrip">
+            Canada/USA Roadtrip (2024/2025)
+          </option>
           <option value="california">California Travel (2023)</option>
           <option value="canada">Canada Travel (2022)</option>
         </select>

@@ -5,7 +5,7 @@ interface Props {
   blob: {
     url: string;
     alt: string;
-  }
+  };
 }
 
 export default function Photos(props: Props) {

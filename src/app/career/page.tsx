@@ -3,12 +3,12 @@ import Resume from "@/components/Resume";
 import RickRolled from "@/components/RickRolled";
 import Social from "@/components/Social";
 import Link from "next/link";
-import type { Metadata } from 'next'
- 
+import type { Metadata } from "next";
+
 export const metadata: Metadata = {
-  title: 'Thomas M - Career',
-  description: '...',
-}
+  title: "Thomas M - Career",
+  description: "...",
+};
 
 export default function Career() {
   const socialList: Array<string> = ["Linkedin", "Github"];
@@ -45,11 +45,11 @@ export default function Career() {
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
             <h2 className="text-lg mr-5">Front-end developer</h2>
-            <span className="text-base">Montreal, Canada</span>
+            <span className="text-base text-right">Montreal, Canada</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Bell (consulting through Talan)</div>
-            <div className="text-base">Nov 2022 - June 2024</div>
+            <div className="text-base text-right">Nov 2022 - June 2024</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
@@ -83,11 +83,11 @@ export default function Career() {
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
             <h2 className="text-lg mr-5">Software engineer (alternanceship)</h2>
-            <span className="text-base">Paris Region, France</span>
+            <span className="text-base text-right">Paris Region, France</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Thales</div>
-            <div className="text-base">Sept 2019 - Aug 2022</div>
+            <div className="text-base text-right">Sept 2019 - Aug 2022</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
@@ -123,12 +123,12 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h2 className="text-lg  mr-5">Developer (internship)</h2>
-            <span className="text-base shrink-0">Paris Region, France</span>
+            <h2 className="text-lg mr-5">Developer (internship)</h2>
+            <span className="text-base text-right">Paris Region, France</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Orange</div>
-            <div className="text-base">Apr 2019 - Aug 2019</div>
+            <div className="text-base text-right">Apr 2019 - Aug 2019</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
@@ -147,7 +147,9 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
-            <h2 className="text-lg mr-5">Computer Science Engineering Degree</h2>
+            <h2 className="text-lg mr-5">
+              Computer Science Engineering Degree
+            </h2>
             <span className="text-base shrink-0">Belfort, France</span>
           </div>
           <div className="flex justify-between">
