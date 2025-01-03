@@ -2,54 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* https://www.geoapify.com/create-custom-map-marker-icon/ */
-
-.marker-pin {
-  width: 30px;
-  height: 30px;
-  border-radius: 50% 50% 50% 0;
-  background: #c30b82;
-  background-color: oklch(var(--p));
-  position: absolute;
-  transform: rotate(-45deg);
-  left: 50%;
-  top: 50%;
-  margin: -15px 0 0 -15px;
-}
-
-.marker-pin::after {
-  content: "";
-  width: 24px;
-  height: 24px;
-  margin: 3px 0 0 3px;
-  background: oklch(var(--p));
-  position: absolute;
-  border-radius: 50%;
-}
-
-.custom-div-icon i {
-  position: absolute;
-  color: white;
-  width: 22px;
-  font-size: 22px;
-  left: 0;
-  right: 0;
-  margin: 10px auto;
-  text-align: center;
-}
-
-.custom-div-icon i.awesome {
-  margin: 12px auto;
-  font-size: 17px;
-}
-
-.marker-text {
-  position: absolute;
-  bottom: 25px;
-  right: 0;
-  text-align: center;
-}
-
 html {
   overflow-y: scroll;
 }

@@ -4,6 +4,7 @@ import points from "@/data/points.json";
 import cities from "@/data/cities.json";
 import icons from "@/data/icons.json";
 import "leaflet/dist/leaflet.css";
+import "@/styles/map.css";
 
 type Filter = "location" | "city";
 
