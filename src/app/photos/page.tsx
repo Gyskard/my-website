@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Thomas Margueritat",
-  description: "Photos : you can see a random selection of my photos in this gallery.",
+  description: "Photos : see a random selection of my photos in this gallery.",
 };
 
 export default function Photos() {
@@ -17,7 +17,7 @@ export default function Photos() {
     <>
       <PageDescription
         title="Photos"
-        description="You can see a random selection of my photos in this gallery."
+        description="See a random selection of my photos in this gallery."
       />
       <Social list={socialList} />
       <div className="text-center mt-6 mb-10">

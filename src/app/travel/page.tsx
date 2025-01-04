@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Thomas Margueritat",
-  description: "Travel : my love for travel and cartography on a single page.",
+  description: "Travel : check at all the locations or cities I've visited on my travels.",
 };
 
 export default function Travel() {
@@ -13,7 +13,7 @@ export default function Travel() {
     <>
       <PageDescription
         title="Travel"
-        description="My love for travel and cartography on a single page."
+        description="Check at all the locations or cities I've visited on my travels."
       />
       <MapManager />
     </>

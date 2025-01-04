@@ -7,7 +7,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Thomas Margueritat",
-  description: "Career : my professional background and my projects.",
+  description: "Career : check my professional background and my projects.",
 };
 
 export default function Career() {
@@ -36,7 +36,7 @@ export default function Career() {
     <>
       <PageDescription
         title="Career"
-        description="My professional background and my projects."
+        description="Check my professional background and my projects."
       />
       <Social list={socialList} />
       <Resume />
