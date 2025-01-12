@@ -5,7 +5,8 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Thomas Margueritat",
-  description: "Travel : check at all the locations or cities I've visited on my travels.",
+  description:
+    "Travel : check at all the locations or cities I've visited on my travels.",
 };
 
 export default function Travel() {
