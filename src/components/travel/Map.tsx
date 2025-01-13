@@ -9,6 +9,15 @@ import Script from "next/script";
 
 type Filter = "location" | "city";
 
+export function getIcon(type: string): L.DivIcon {
+  return L.divIcon({
+    html: `<div class='marker-pin' aria-label="${type}"></div><i class='fa ${icons?.[type as keyof typeof icons]?.icon || "fa-circle"} awesome'>`,
+    iconSize: [30, 42],
+    iconAnchor: [15, 42],
+    className: "custom-div-icon",
+  });
+}
+
 export default function Map() {
   const mapContainer = useRef(null);
 
@@ -17,58 +26,64 @@ export default function Map() {
   const [numberOfPoints, setNumberOfPoints] = useState<number>(0);
 
   useEffect(() => {
+    // if map already exists
     if (!mapContainer.current) return;
 
     const map = L.map(mapContainer.current);
 
-    function getIcon(type: string): L.DivIcon {
-      return L.divIcon({
-        html: `<div class='marker-pin' aria-label="${type}"></div><i class='fa ${icons?.[type as keyof typeof icons]?.icon || "fa-circle"} awesome'>`,
-        iconSize: [30, 42],
-        iconAnchor: [15, 42],
-        className: "custom-div-icon",
-      });
-    }
+    const markerGroup = [];
 
-    const marketGroup = [];
-
+    // add points on map
     if (filter === "location") {
       const tripPoints = points[trip as keyof typeof points] || [];
       for (const point of tripPoints) {
+        // a location can have multiple geolocalisation, so must to create one marker per geolocalisation
         for (const geo of point.geolocalisation) {
+          // create marker
           const marker = L.marker([geo.latitude, geo.longitude], {
             icon: getIcon(point.type),
             alt: point.name,
           });
+          // add popup when click on marker
           let description = `<b>${point.name}</b><br><u>Category</u>: ${icons[point.type as keyof typeof icons]?.text || "Place, uncategorized"}`;
           if (geo.isApproximated)
             description += `<br /><br/><i>Position purposely approximated</i>`;
           marker.bindPopup(description).openPopup();
-          marketGroup.push(marker);
+          // add marker in markerGroup to fit the zoom
+          markerGroup.push(marker);
+          // add marker on the map
           marker.addTo(map);
         }
       }
     } else {
       for (const city of cities[trip as keyof typeof points]) {
+        // create marker
         const marker = L.marker(
           [city.geolocalisation.latitude, city.geolocalisation.longitude],
           { icon: getIcon(""), alt: city.name },
         );
+        // add popup when click on marker
         marker.bindPopup(`<b>${city.name}</b>`).openPopup();
-        marketGroup.push(marker);
+        // add marker in markerGroup to fit the zoom
+        markerGroup.push(marker);
+        // add marker on the map
         marker.addTo(map);
       }
     }
 
-    if (marketGroup.length > 0)
-      map.fitBounds(L.featureGroup(marketGroup).getBounds());
+    // set number of points for the text below the map
+    setNumberOfPoints(markerGroup.length);
 
+    // fit the zoom with the group of markers
+    if (markerGroup.length > 0) {
+      map.fitBounds(L.featureGroup(markerGroup).getBounds());
+    }
+
+    // add attribution
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       attribution: "© OpenStreetMap",
       detectRetina: true,
     }).addTo(map);
-
-    setNumberOfPoints(marketGroup.length);
 
     return () => {
       map.remove();

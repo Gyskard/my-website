@@ -10,27 +10,27 @@ export const metadata: Metadata = {
   description: "Career : check my professional background and my projects.",
 };
 
+export function ShinyTech(props: { tech: string }) {
+  return (
+    <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent font-normal w-fit">
+      {props.tech}
+    </span>
+  );
+}
+
+export function GithubButton(props: { projectName: string }) {
+  return (
+    <Link href={"https://github.com/Gyskard/" + props.projectName}>
+      <button className="btn btn-xs btn-soft mt-3">
+        <span className="icon-[tabler--brand-github] size-4" />
+        Check on Github
+      </button>
+    </Link>
+  );
+}
+
 export default function Career() {
   const socialList: Array<string> = ["Linkedin", "Github"];
-
-  function ShinyTech(props: { tech: string }) {
-    return (
-      <span className="bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent font-normal w-fit">
-        {props.tech}
-      </span>
-    );
-  }
-
-  function GithubButton(props: { projectName: string }) {
-    return (
-      <Link href={"https://github.com/Gyskard/" + props.projectName}>
-        <button className="btn btn-xs btn-soft mt-3">
-          <span className="icon-[tabler--brand-github] size-4" />
-          Check on Github
-        </button>
-      </Link>
-    );
-  }
 
   return (
     <>

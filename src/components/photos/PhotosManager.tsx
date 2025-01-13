@@ -78,12 +78,13 @@ export default function Photos() {
   }
 
   useEffect(() => {
+    // get blobs from vercel storage
     getBlobs().then((response) => {
       const URLs = response.blobs
-        .slice(1)
-        .sort(() => Math.random() - Math.random())
-        .slice(0, 12)
-        .map((blob) => {
+        .slice(1) // first elm is the blob folder itself, so must remove it 
+        .sort(() => Math.random() - Math.random()) // random sort
+        .slice(0, 12) // get the first 12 blobs
+        .map((blob) => { // return with blob name as image alt for accessibility
           return {
             url: blob.url,
             alt: blob.pathname.substring(8, blob.pathname.length - 4),
