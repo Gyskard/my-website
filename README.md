@@ -24,6 +24,7 @@ npx vercel env pull .env.development.local
 ```
 
 Add a `RESUME_URL` key inside the file `.env.development.local`.
+Add images in a vercel blob storage.
 
 ```
 npm run dev
