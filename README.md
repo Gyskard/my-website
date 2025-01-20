@@ -13,6 +13,18 @@ For this second version, I used __NextJS__. With __Vercel__ as plateform and __C
 - TailwindCSS
 - FlyonUI
 
+## Performances
+
+### Home, Career and Photos
+
+<img src="screenshots/lighthouse_main_result.png" alt="lighthouse main result" width="400"/>
+
+### Map
+
+<img src="screenshots/lighthouse_map_result.png" alt="lighthouse map result" width="400"/>
+
+Performance results are very inconsistent and bad with the “travel” page due to the map displaying hundreds of markers at the same time. 
+
 ## How to use it
 
 ### Installation
