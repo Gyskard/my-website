@@ -93,14 +93,14 @@ export default function Career() {
             <li className="mb-2">
               Developed a <ShinyTech tech="React" /> and{" "}
               <ShinyTech tech="NodeJS" />
-              web application with TypeScript allowing users to manage
+              &nbsp;web application with TypeScript allowing users to manage
               configurations through a PostgreSQL database, replacing the
               existing local files system.
             </li>
             <li className="mb-2">
               Developed a <ShinyTech tech="Vue 2" /> and{" "}
               <ShinyTech tech="NodeJS" />
-              web application widely adopted by users for its superior
+              &nbsp;web application widely adopted by users for its superior
               efficiency.
             </li>
             <li className="mb-2">

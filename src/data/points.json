@@ -1,6 +1,522 @@
 {
   "northeastRoadtrip": [
     {
+      "name": "Union Level Ghost Town",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 36.71743524704777,
+          "longitude": -78.23424994024258,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Historic Occoneechee Speedway Trailhead",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 36.06987880808408,
+          "longitude": -79.08541722251684,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "North Carolina Museum of Art",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 35.809887164327066,
+          "longitude": -78.70258233597933,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Old Carbonton Dam",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 35.5194549101589,
+          "longitude": -79.34760545637931,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Airborne & Special Operations Museum Foundation",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 35.05602322921205,
+          "longitude": -78.88514755610893,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Warbird Park",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 33.66125453487128,
+          "longitude": -78.92877211573845,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Myrtle Beach",
+      "type": "beach",
+      "geolocalisation": [
+        {
+          "latitude": 33.65814326613664,
+          "longitude": -78.91708551183936,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Prince Frederick Church",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 33.505863390362734,
+          "longitude": -79.18037561596547,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Palmetto Trail Head",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 33.039851782271505,
+          "longitude": -79.56130558739348,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Walnut Grove Plantation",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 33.03428884272814,
+          "longitude": -79.57389504550147,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Mount Pleasant Pier",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 32.80197322318293,
+          "longitude": -79.90603510308354,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Charleston City Market",
+      "type": "building",
+      "geolocalisation": [
+        {
+          "latitude": 32.780844194103814,
+          "longitude": -79.9305649779522,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Philadelphia Alley",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 32.779595191204145,
+          "longitude": -79.92879975485981,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Anastasia State Park",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 29.878872748203726,
+          "longitude": -81.27485649197891,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Angel Oak Tree",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 32.71706118609704,
+          "longitude": -80.08034890358897,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Apollo - Saturn V Center",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 28.605348091019284,
+          "longitude": -80.6697165623046,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Banana Creek Launch Viewing",
+      "type": "photo",
+      "geolocalisation": [
+        {
+          "latitude": 28.603779963362655,
+          "longitude": -80.66814873905163,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Bayside Marketplace",
+      "type": "building",
+      "geolocalisation": [
+        {
+          "latitude": 25.778406193328482,
+          "longitude": -80.18680131017604,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Blue Spring State Park",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 28.946704735738777,
+          "longitude": -81.33892105257671,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Bulow Plantation Ruins Historic State Park",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 29.43454945782924,
+          "longitude": -81.14267509366525,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Castillo de San Marcos National Monument",
+      "type": "castle",
+      "geolocalisation": [
+        {
+          "latitude": 29.89785244899548,
+          "longitude": -81.3115187006933,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Collins Park",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 25.79716912151592,
+          "longitude": -80.1291899091682,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Colonel Joe Kittinger Park",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 28.539966816286366,
+          "longitude": -81.3448908669002,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Colonial Park Cemetery",
+      "type": "monument",
+      "geolocalisation": [
+        {
+          "latitude": 32.07518360908106,
+          "longitude": -81.08996801976157,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Driftwood Beach",
+      "type": "beach",
+      "geolocalisation": [
+        {
+          "latitude": 31.10337324194322,
+          "longitude": -81.40394064346214,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Holocaust Memorial Miami Beach",
+      "type": "monument",
+      "geolocalisation": [
+        {
+          "latitude": 25.795488294574465,
+          "longitude": -80.13621251023118,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Horton House",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 31.101782244468463,
+          "longitude": -81.41464181950248,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Jekyll Island Amphitheater",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 31.065196081909054,
+          "longitude": -81.42005383053859,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Jekyll Island Fishing Pier",
+      "type": "port",
+      "geolocalisation": [
+        {
+          "latitude": 31.11650934415583,
+          "longitude": -81.4177542800453,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Jones Street",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 32.07285112019783,
+          "longitude": -81.09593075083399,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Kennedy Space Center",
+      "type": "museum",
+      "geolocalisation": []
+    },
+    {
+      "name": "King Street",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 32.780573631054715,
+          "longitude": -79.93323211484262,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Miami Beach Ocean Walk",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.795531950338844,
+          "longitude": -80.12704046060904,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Miami Beach",
+      "type": "beach",
+      "geolocalisation": [
+        {
+          "latitude": 25.799729975576742,
+          "longitude": -80.12501281665182,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Miami River Walk",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.772277435899188,
+          "longitude": -80.18507742088056,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Moss Park",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 28.377987059131158,
+          "longitude": -81.19064251068905,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "NAS Sanford Memorial",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 28.7647327,
+          "longitude": -81.2377345,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Old Sheldon Church Ruins",
+      "type": "urbex",
+      "geolocalisation": []
+    },
+    {
+      "name": "Pineapple Fountain",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 32.77809140565642,
+          "longitude": -79.92521451374985,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Rainbow Row",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 32.775355662525605,
+          "longitude": -79.92729489364652,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "River Street Savannah Georgia",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 32.08168574563825,
+          "longitude": -81.09026355234697,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "River Street",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 32.082461121433056,
+          "longitude": -81.09349031283503,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Savannah National Wildlife Refuge",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 32.22112653480309,
+          "longitude": -81.11737163276943,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Savannah Wildlife Dr",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 32.16533972480734,
+          "longitude": -81.11502722281388,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "St. Andrew's Beach",
+      "type": "beach",
+      "geolocalisation": [
+        {
+          "latitude": 31.02104682098277,
+          "longitude": -81.4344946755126,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "The Cathedral Basilica of St. John the Baptist",
+      "type": "religion",
+      "geolocalisation": [
+        {
+          "latitude": 32.07342055924462,
+          "longitude": -81.09114599782758,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Waterfront Park Pier",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 32.77926686306932,
+          "longitude": -79.92390645865541,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Waterfront Park",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 32.779033445134765,
+          "longitude": -79.92520083325252,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
       "name": "21c Museum Hotel Louisville",
       "type": "museum",
       "geolocalisation": [

@@ -2,9 +2,11 @@
 
 My personal website, available here : https://marguerit.at/.
 
-I made the first version of this project in 2017, using HTML and CSS with __Water.css__ and __Netlify__ as plateform.
+I made the first version of this project in 2017, using HTML and CSS with **Water.css** and **Netlify** as plateform.
 
-For this second version, I used __NextJS__. With __Vercel__ as plateform and __Cloudfare__ as DNS.
+For this second version, I used **NextJS**. With **Vercel** as plateform and **Cloudfare** as DNS.
+
+Unit tests has been generated with IA (Claude 3.5 Sonnet).
 
 ## Built With
 
@@ -23,7 +25,7 @@ For this second version, I used __NextJS__. With __Vercel__ as plateform and __C
 
 <img src="screenshots/lighthouse_map_result.png" alt="lighthouse map result" width="400"/>
 
-Performance results are very inconsistent and bad with the “travel” page due to the map displaying hundreds of markers at the same time. 
+Performance results are very inconsistent and bad with the “travel” page due to the map displaying hundreds of markers at the same time.
 
 ## How to use it
 
@@ -54,4 +56,3 @@ npm run format
 ```
 npm run test
 ```
-
