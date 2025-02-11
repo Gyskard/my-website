@@ -17,7 +17,7 @@ export default function Home() {
           <p className="text-lg mt-2">
             I&#39;m a{" "}
             <span className="bg-gradient-to-r from-primary to-error bg-clip-text text-transparent">
-              front-end developer
+              software engineer
             </span>
             , currently travelling.
           </p>
