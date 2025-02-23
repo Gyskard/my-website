@@ -279,6 +279,20 @@
         "latitude": 29.892238837992643,
         "longitude": -81.3138852897961
       }
+    },
+    {
+      "name": "St Petersburg",
+      "geolocalisation": {
+        "latitude": 27.82893147752752,
+        "longitude": -82.64831603128428
+      }
+    },
+    {
+      "name": "New Orleans",
+      "geolocalisation": {
+        "latitude": 30.000999583207783,
+        "longitude": -90.06525099639506
+      }
     }
   ],
   "california": [

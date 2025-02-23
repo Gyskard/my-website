@@ -2,6 +2,8 @@ import { describe, it, expect, vi, beforeEach } from "vitest";
 import { getBlobs } from "@/app/photos/actions";
 import { list } from "@vercel/blob";
 
+// Unit tests has been generated with IA (Claude 3.5 Sonnet).
+
 // Mock the @vercel/blob module
 vi.mock("@vercel/blob", () => ({
   list: vi.fn(),

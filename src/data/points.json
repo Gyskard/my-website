@@ -6742,6 +6742,512 @@
           "isApproximated": false
         }
       ]
+    },
+    {
+      "name": "Air Force Armament Museum",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 30.466234024776114,
+          "longitude": -86.56124376024073,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Anhinga Trail",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.382696750786828,
+          "longitude": -80.60718744855731,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Battery 234",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.3209884,
+          "longitude": -87.2850251,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Battery Cooper",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.3205774,
+          "longitude": -87.2824147,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Battery Payne",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.328059449681533,
+          "longitude": -87.29617600798413,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Battery Sevier",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.32697549452619,
+          "longitude": -87.29405298357398,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Battery Van Swearingen",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.32737858087975,
+          "longitude": -87.29518670015453,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Battery Worth",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.323658739528923,
+          "longitude": -87.27924199854915,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Bayou Sauvage NWR Ridge Trail & Boardwalk",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 30.053475934041344,
+          "longitude": -89.88053225164835,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Big Cypress Bend Boardwalk",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.94033984006711,
+          "longitude": -81.46592003149811,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Bourbon Street",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 29.95470878119479,
+          "longitude": -90.0691574477666,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Café du Monde",
+      "type": "food",
+      "geolocalisation": [
+        {
+          "latitude": 29.95760423658572,
+          "longitude": -90.06176894719451,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Cajun Encounters Tour Company",
+      "type": "activity",
+      "geolocalisation": [
+        {
+          "latitude": 30.231590924852384,
+          "longitude": -89.6698426327656,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Canal Street",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 29.953869278407108,
+          "longitude": -90.06990310170818,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Dat Dog",
+      "type": "food",
+      "geolocalisation": [
+        {
+          "latitude": 29.963603961748397,
+          "longitude": -90.05768277134298,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Eco Pond Trailhead",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.138991095791788,
+          "longitude": -80.93758583139103,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Florida Air Museum",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 27.9822396,
+          "longitude": -82.0275808,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Fort Pickens",
+      "type": "castle",
+      "geolocalisation": [
+        {
+          "latitude": 30.327219629336177,
+          "longitude": -87.29064786105617,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Freedom Lake Park",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 27.8629546,
+          "longitude": -82.6979718,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Frenchmen Street",
+      "type": "street",
+      "geolocalisation": [
+        {
+          "latitude": 29.96415170961743,
+          "longitude": -90.05779826591706,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Georgia Veterans State Park Visitor Center",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 31.9599738,
+          "longitude": -83.911365,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Gumbo Limbo Trail",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.380304568913182,
+          "longitude": -80.61814385850873,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Guy Bradley Trail",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.138450134397658,
+          "longitude": -80.92914201026734,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Guy Bradley Visitor Center",
+      "type": "building",
+      "geolocalisation": [
+        {
+          "latitude": 25.141276701861866,
+          "longitude": -80.92389128152577,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "H.P. Williams Roadside Park",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 25.88807134022239,
+          "longitude": -81.26202627150336,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Hillman Bridge",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.384620149051933,
+          "longitude": -83.17462413610274,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Jackson Square",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 29.957408133877742,
+          "longitude": -90.06294646695852,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Kirby Storter Roadside Park",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.868213871769964,
+          "longitude": -81.15422428828202,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Mahogany Hammock Trail",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.323130062543168,
+          "longitude": -80.83304953480769,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Museum of Aviation",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 32.5921754687231,
+          "longitude": -83.58783674192661,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Pa-Hay-Okee Lookout Tower",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.44163188187219,
+          "longitude": -80.78392251005953,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Patterson-McInnis Train",
+      "type": "train",
+      "geolocalisation": [
+        {
+          "latitude": 29.2535719,
+          "longitude": -82.7245221,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Pegasus And Dragon Statue",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 25.982316092068864,
+          "longitude": -80.14054522192332,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Providence Canyon State Park",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 32.06890098313996,
+          "longitude": -84.91443896501002,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Royal Palm Visitor Center",
+      "type": "building",
+      "geolocalisation": [
+        {
+          "latitude": 25.382551388145647,
+          "longitude": -80.60966390023933,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "St. Louis Cathedral",
+      "type": "religion",
+      "geolocalisation": [
+        {
+          "latitude": 29.95797408970668,
+          "longitude": -90.06371508652464,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Suwannee Springs Bridge",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.395430107129673,
+          "longitude": -82.93579822256767,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Suwannee Springs",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.39437813872646,
+          "longitude": -82.93428073621172,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "The Ancient Spanish Monastery",
+      "type": "religion",
+      "geolocalisation": [
+        {
+          "latitude": 25.92963699192358,
+          "longitude": -80.15454001687672,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Town of Ellaville",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.386729148687667,
+          "longitude": -83.1750626922693,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "USS Alabama Battleship Memorial Park",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 30.682861331881732,
+          "longitude": -88.01677794697055,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Washington Artillery Park",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 29.956937137434007,
+          "longitude": -90.06213923027363,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Weedon Island Preserve",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 27.847579366222096,
+          "longitude": -82.60868445833626,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "West Lake Trail",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 25.21441658627673,
+          "longitude": -80.85071705147759,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "West Pearl Bridge",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 30.23120952148536,
+          "longitude": -89.6688467113731,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Yulee Sugar Mill Ruins Historic State Park",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 28.78365934469451,
+          "longitude": -82.60757550091179,
+          "isApproximated": false
+        }
+      ]
     }
   ],
   "california": [

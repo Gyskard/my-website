@@ -126,5 +126,9 @@
   "stairs": {
     "icon": "fa-stairs",
     "text": "Stairs"
+  },
+  "activity": {
+    "icon": "fa-trophy",
+    "text": "activity"
   }
 }

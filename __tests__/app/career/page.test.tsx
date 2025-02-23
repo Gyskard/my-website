@@ -3,6 +3,8 @@ import { cleanup, render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom/vitest";
 import { ShinyTech, GithubButton } from "@/app/career/page";
 
+// Unit tests has been generated with IA (Claude 3.5 Sonnet).
+
 describe("ShinyTech", () => {
   it("renders the tech prop correctly", () => {
     const tech = "React";
