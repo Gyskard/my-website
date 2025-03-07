@@ -7248,6 +7248,523 @@
           "isApproximated": false
         }
       ]
+    },
+    {
+      "name": "1940 Air Terminal Museum",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 29.647069309524277,
+          "longitude": -95.2862741019823,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Allen Interurban Railway Abutment",
+      "type": "urbex",
+      "geolocalisation": [
+        {
+          "latitude": 33.117699767037216,
+          "longitude": -96.6659765713645,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "AT&T Discovery District",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 32.77932982398158,
+          "longitude": -96.79938020952656,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Buffalo Bayou Park Cistern",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 29.762389661124356,
+          "longitude": -95.37600224621904,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Convair B-58 Hustler",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 29.3831192,
+          "longitude": -98.5603546,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Dallas Museum of Art",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 32.78760411301951,
+          "longitude": -96.80119914669285,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Elk Mountain Trail",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 34.73168360880318,
+          "longitude": -98.72340995418296,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Espada Aqueduct",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 29.33252377609121,
+          "longitude": -98.46135552792519,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "F-111 Aardvark",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 29.3826049,
+          "longitude": -98.5611864,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Fort Worth Water Gardens",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 32.747736212081016,
+          "longitude": -97.32665456986092,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Frontiers of Flight Museum",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 32.84258391906803,
+          "longitude": -96.83519127211012,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Galveston Island State Park",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 29.191186009244987,
+          "longitude": -94.95786850855984,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Galveston Railroad Museum",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 29.3060736,
+          "longitude": -94.7986052,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Giant Eyeball",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 32.78140488787286,
+          "longitude": -96.79827568985552,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Great Storm Statue",
+      "type": "monument",
+      "geolocalisation": [
+        {
+          "latitude": 29.272659738190047,
+          "longitude": -94.81511115176922,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Guadalupe River State Park",
+      "type": "national-park",
+      "geolocalisation": [
+        {
+          "latitude": 29.874969637671647,
+          "longitude": -98.48610589308075,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Holy City Prairie Dog Town",
+      "type": "photo",
+      "geolocalisation": [
+        {
+          "latitude": 34.7374911464276,
+          "longitude": -98.5923335716473,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Hot Wells Hotel Ruins",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 29.36580416803775,
+          "longitude": -98.47099268552431,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Houston Legendary Graffiti Building",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 29.7473045504413,
+          "longitude": -95.35936064249077,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Interstellar BBQ",
+      "type": "food",
+      "geolocalisation": [
+        {
+          "latitude": 30.46148353181885,
+          "longitude": -97.81520299310093,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Jed Johnson Tower Trailhead",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 34.7339001492134,
+          "longitude": -98.59604526201795,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Klyde Warren Park",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 32.78929018962947,
+          "longitude": -96.80168290091711,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "La Antorcha de la Amistad",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 29.42350045729697,
+          "longitude": -98.48748811408,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "La Villita Historic Village",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 29.42184411070997,
+          "longitude": -98.48900868535743,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Lake Charles Veterans Memorial Park",
+      "type": "monument",
+      "geolocalisation": [
+        {
+          "latitude": 30.2338292,
+          "longitude": -93.2217405,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Lake Jed Johnson Dam",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 34.726694601128756,
+          "longitude": -98.59866041484759,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Lake Jed Johnson Tower",
+      "type": "tower",
+      "geolocalisation": [
+        {
+          "latitude": 34.73247626357043,
+          "longitude": -98.60060067899629,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Louisiana State Capitol",
+      "type": "capitol",
+      "geolocalisation": [
+        {
+          "latitude": 30.457169041647987,
+          "longitude": -91.1872690601622,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Mission Alamo",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 29.425966462003096,
+          "longitude": -98.48614147256994,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Mission San José",
+      "type": "religion",
+      "geolocalisation": [
+        {
+          "latitude": 29.362278728607432,
+          "longitude": -98.47974280863819,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Mission San Juan Capistrano",
+      "type": "religion",
+      "geolocalisation": [
+        {
+          "latitude": 29.332504034443613,
+          "longitude": -98.4554386135994,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Mount Scott",
+      "type": "photo",
+      "geolocalisation": [
+        {
+          "latitude": 34.743914351154665,
+          "longitude": -98.53195891459603,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Pearl Brewery",
+      "type": "place",
+      "geolocalisation": [
+        {
+          "latitude": 29.4422607,
+          "longitude": -98.4793857,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Quanah Parker Dam",
+      "type": "water",
+      "geolocalisation": [
+        {
+          "latitude": 34.712294613605394,
+          "longitude": -98.64123031757973,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Rosita's Bridge",
+      "type": "bridge",
+      "geolocalisation": [
+        {
+          "latitude": 29.42236762144995,
+          "longitude": -98.48868901076243,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "San Antonio Bat Colony",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 29.439669845847526,
+          "longitude": -98.48165448818823,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "San Antonio River Walk",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 29.422987892343514,
+          "longitude": -98.48604360347267,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Space Center Houston",
+      "type": "museum",
+      "geolocalisation": [
+        {
+          "latitude": 29.551833841647476,
+          "longitude": -95.09810204313932,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Texas Capitol",
+      "type": "capitol",
+      "geolocalisation": [
+        {
+          "latitude": 30.27467011532047,
+          "longitude": -97.74036346046144,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Thanks-Giving Square",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 32.782797213245686,
+          "longitude": -96.79823072324045,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "The Boardwalk at Lady Bird Lake",
+      "type": "walk",
+      "geolocalisation": [
+        {
+          "latitude": 30.250526923966056,
+          "longitude": -97.7374098054754,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "The Grotto",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 29.440597042549722,
+          "longitude": -98.48243651579322,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "The Holy City of the Wichitas",
+      "type": "religion",
+      "geolocalisation": [
+        {
+          "latitude": 34.74255252042103,
+          "longitude": -98.59112395305206,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Velvet Taco",
+      "type": "food",
+      "geolocalisation": [
+        {
+          "latitude": 29.44488539737667,
+          "longitude": -98.48178612011738,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Water Wall",
+      "type": "art",
+      "geolocalisation": [
+        {
+          "latitude": 29.735740078927286,
+          "longitude": -95.46132794146438,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Westcave Preserve",
+      "type": "park",
+      "geolocalisation": [
+        {
+          "latitude": 30.337373610176282,
+          "longitude": -98.1409023924955,
+          "isApproximated": false
+        }
+      ]
+    },
+    {
+      "name": "Zero-G Weightless Trainer",
+      "type": "plane",
+      "geolocalisation": [
+        {
+          "latitude": 29.60286440454505,
+          "longitude": -95.1744120697149,
+          "isApproximated": false
+        }
+      ]
     }
   ],
   "california": [

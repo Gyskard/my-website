@@ -293,6 +293,55 @@
         "latitude": 30.000999583207783,
         "longitude": -90.06525099639506
       }
+    },
+    {
+      "name": "New Orleans",
+      "geolocalisation": {
+        "latitude": 30.000999583207783,
+        "longitude": -90.06525099639506
+      }
+    },
+    {
+      "name": "Baton Rouge",
+      "geolocalisation": {
+        "latitude": 30.44911268918922,
+        "longitude": -91.16836065141995
+      }
+    },
+    {
+      "name": "Houston",
+      "geolocalisation": {
+        "latitude": 29.765892865876495,
+        "longitude": -95.3963477116051
+      }
+    },
+    {
+      "name": "San Antonio",
+      "geolocalisation": {
+        "latitude": 29.42501466809626,
+        "longitude": -98.49880330487818
+      }
+    },
+    {
+      "name": "Austin",
+      "geolocalisation": {
+        "latitude": 30.268162836051452, 
+        "longitude": -97.7289072962582
+      }
+    },
+    {
+      "name": "Fort Worth",
+      "geolocalisation": {
+        "latitude": 32.75633568124642, 
+        "longitude": -97.32015946810817
+      }
+    },
+    {
+      "name": "Dallas",
+      "geolocalisation": {
+        "latitude": 32.79237011631552, 
+        "longitude": -96.7816819428065
+      }
     }
   ],
   "california": [
