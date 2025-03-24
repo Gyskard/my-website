@@ -325,21 +325,21 @@
     {
       "name": "Austin",
       "geolocalisation": {
-        "latitude": 30.268162836051452, 
+        "latitude": 30.268162836051452,
         "longitude": -97.7289072962582
       }
     },
     {
       "name": "Fort Worth",
       "geolocalisation": {
-        "latitude": 32.75633568124642, 
+        "latitude": 32.75633568124642,
         "longitude": -97.32015946810817
       }
     },
     {
       "name": "Dallas",
       "geolocalisation": {
-        "latitude": 32.79237011631552, 
+        "latitude": 32.79237011631552,
         "longitude": -96.7816819428065
       }
     }
