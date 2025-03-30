@@ -19,12 +19,8 @@ export default function Home() {
             <span className="bg-gradient-to-r from-primary to-error bg-clip-text text-transparent">
               software engineer
             </span>
-            , currently travelling.
-          </p>
-          <p className="mt-3 text-lg">
-            I&#39;m looking for a new job position at the end of March.
-          </p>
-          <p className="mt-3 text-lg">Welcome on my personal website 🙂</p>
+          <a className="mt-3 text-lg">, welcome on my website 🙂</a>
+        </p>
         </div>
         <div className="max-sm:mt-5 avatar size-28 mask mask-hexagon-2">
           <Image
