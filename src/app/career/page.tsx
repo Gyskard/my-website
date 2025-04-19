@@ -45,6 +45,21 @@ export default function Career() {
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
             <h2 className="text-lg mr-5">Front-end developer</h2>
+            <span className="text-base text-right">Paris, France</span>
+          </div>
+          <div className="flex justify-between mb-6">
+            <div className="mr-5">Promethee Earth Intelligence</div>
+            <div className="text-base text-right">Apr 2025</div>
+          </div>
+          <ul className="list-outside list-disc ms-4">
+            <li className="mb-2">A lot of things.</li>
+          </ul>
+        </div>
+      </div>
+      <div className="card w-full mt-6 shadow-none">
+        <div className="card-body p-0">
+          <div className="card-title mb-0 flex justify-between">
+            <h2 className="text-lg mr-5">Front-end developer</h2>
             <span className="text-base text-right">Montreal, Canada</span>
           </div>
           <div className="flex justify-between mb-6">

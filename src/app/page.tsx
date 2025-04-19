@@ -17,10 +17,15 @@ export default function Home() {
           <p className="text-lg mt-2">
             I&#39;m a{" "}
             <span className="bg-gradient-to-r from-primary to-error bg-clip-text text-transparent">
-              software engineer
+              front-end developer
             </span>
-          <a className="mt-3 text-lg">, welcome on my website 🙂</a>
-        </p>
+            <a className="mt-3 text-lg">
+              , working in Paris
+              <br />
+              for Promethee Earth Intelligence.
+            </a>
+          </p>
+          <p className="mt-3 text-lg">Welcome on my website 🙂</p>
         </div>
         <div className="max-sm:mt-5 avatar size-28 mask mask-hexagon-2">
           <Image
