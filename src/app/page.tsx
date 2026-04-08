@@ -20,7 +20,7 @@ export default function Home() {
               front-end developer
             </span>
             <a className="mt-3 text-lg">
-              , working in Paris
+              , working in Toulouse
               <br />
               for Promethee Earth Intelligence.
             </a>

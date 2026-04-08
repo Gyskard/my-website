@@ -1,6 +1,7 @@
+// give me a job please, i'm not a AI but a human being with high food requirements
+
 import PageDescription from "@/components/PageDescription";
 import Resume from "@/components/Resume";
-import RickRolled from "@/components/career/RickRolled";
 import Social from "@/components/Social";
 import Link from "next/link";
 import type { Metadata } from "next";
@@ -45,14 +46,22 @@ export default function Career() {
         <div className="card-body p-0">
           <div className="card-title mb-0 flex justify-between">
             <h2 className="text-lg mr-5">Front-end developer</h2>
-            <span className="text-base text-right">Paris, France</span>
+            <span className="text-base text-right">Toulouse, France</span>
           </div>
           <div className="flex justify-between mb-6">
             <div className="mr-5">Promethee Earth Intelligence</div>
-            <div className="text-base text-right">Apr 2025</div>
+            <div className="text-base text-right">Apr 2025 - now</div>
           </div>
           <ul className="list-outside list-disc ms-4">
-            <li className="mb-2">A lot of things.</li>
+            <li className="mb-2">
+              Development of a GEOINT (geospatial intelligence) platform using <ShinyTech tech="Vue 3" />, TypeScript, and Mapbox — advanced map visualization, timelines, and interactive dashboards with D3.js and Apache ECharts, relational graphs and management of raster and vector layers.
+            </li>
+            <li className="mb-2">
+              Major refactoring and performance optimization of a large and complex codebase. Integration from Figma mockups, with component documentation via Storybook. Unit testing with Vitest, code quality with ESLint/Prettier.
+            </li>
+            <li className="mb-2">
+              Technical reference within the team for onboarding, code reviews, mentoring a work-study student, and participation in recruitment.
+            </li>
           </ul>
         </div>
       </div>
@@ -63,33 +72,24 @@ export default function Career() {
             <span className="text-base text-right">Montreal, Canada</span>
           </div>
           <div className="flex justify-between mb-6">
-            <div className="mr-5">Bell (consulting through Talan)</div>
+            <div className="mr-5">Bell</div>
             <div className="text-base text-right">Nov 2022 - June 2024</div>
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
-              Collaborated in bilingual developer teams using Jira, Scrum and
-              the SAFe framework.
+              Development of a real-time asset tracking and vehicle fleet management platform using <ShinyTech tech="React" />, Mapbox, and NestJS (<ShinyTech tech="Node.JS" />).
             </li>
             <li className="mb-2">
-              Migrated a critical web application from{" "}
-              <ShinyTech tech="Vue 2" /> to <ShinyTech tech="Vue 3" /> with new
-              UI, ensuring alignment with Figma designs.
+              Development of a <ShinyTech tech="Vue 3" /> storefront platform providing real-time data with dashboards made with Chart.js.
             </li>
             <li className="mb-2">
-              Contributed to develop an asset tracking and vehicle fleet
-              management platform with <ShinyTech tech="Vue 3" /> and NestJS by
-              delivering features with unit tests and WCAG-compliant
-              accessibility.
+              Migration of a mission-critical application from Vue 2 to <ShinyTech tech="Vue 3" /> with a new UX implemented using Figma.
             </li>
             <li className="mb-2">
-              Contributed to develop a retail platform using{" "}
-              <ShinyTech tech="Vue 3" />, delivering real-time IoT data to
-              users.
+              Collaboration within a bilingual team using Jira, Scrum, and the SAFe framework.
             </li>
             <li className="mb-2">
-              Ensured the delivery of maintainable code with code quality, unit
-              tests, code coverage and code reviews.
+              Delivery of maintainable code with high code quality, unit tests, code reviews, and WCAG accessibility compliance.
             </li>
           </ul>
         </div>
@@ -106,31 +106,22 @@ export default function Career() {
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
-              Developed a <ShinyTech tech="React" /> and{" "}
-              <ShinyTech tech="NodeJS" />
-              &nbsp;web application with TypeScript allowing users to manage
-              configurations through a PostgreSQL database, replacing the
-              existing local files system.
+              Development from scratch of a web application using <ShinyTech tech="React" />, <ShinyTech tech="Node.JS" />, and TypeScript with PostgreSQL — complete replacement of a legacy local file system with centralized configuration management via a database. 
             </li>
             <li className="mb-2">
-              Developed a <ShinyTech tech="Vue 2" /> and{" "}
-              <ShinyTech tech="NodeJS" />
-              &nbsp;web application widely adopted by users for its superior
-              efficiency.
+              Development of an application for encoding/decoding tactical data link frames using Vue 2 and <ShinyTech tech="Node.JS" />.
             </li>
             <li className="mb-2">
-              Implemented unit and functional tests with Mocha and Karate to
-              achieve 80% code coverage and automated the CI/CD pipeline using
-              Jenkins, ensuring reliable and efficient software delivery.
+              Bug fixes on a map data visualization application developed with Angular.
             </li>
             <li className="mb-2">
-              Contributed to develop a retail platform using{" "}
-              <ShinyTech tech="Vue 3" />, delivering real-time IoT data to
-              users.
+              Integrated into the Tactical Data Link (LDT) service as part of an Agile team using the SAFe framework.
             </li>
             <li className="mb-2">
-              Supervised an intern to add features on a web application by
-              providing guidance and code reviews.
+             Implementation of unit and functional tests (Mocha, Karate) and CI/CD pipelines with Jenkins. Deployment to production using Docker, Docker Compose, and Nginx.
+            </li>
+            <li className="mb-2">
+             Onboarding and mentoring of an intern for 6 months on the development of new features.
             </li>
           </ul>
         </div>
@@ -147,10 +138,7 @@ export default function Career() {
           </div>
           <ul className="list-outside list-disc ms-4">
             <li className="mb-2">
-              Developed a Python tool integrated with a MySQL database to
-              visualize financial and IoT data into Microsoft Power BI
-              dashboards, enabling the head of department to make data-driven
-              decisions.
+              Development of a Python tool that uses a MySQL database to visualize financial and IoT data in Microsoft Power BI, with the aim of facilitating decision-making.
             </li>
           </ul>
         </div>
@@ -194,6 +182,20 @@ export default function Career() {
       <div className="card w-full mt-6 shadow-none">
         <div className="card-body p-0">
           <div className="card-title mb-0">
+            <h2 className="text-lg">Loko-map</h2>
+          </div>
+          <div className="text-base mt-1">
+            <ShinyTech tech="React" />, TypeScript, Fastify (<ShinyTech tech="React" />), MapLibre, PMTiles, Pnpm, Turborepo
+          </div>
+          <p className="mt-2">
+            I would like to develop several features, such as displaying the approximate locations of trains currently in service in France. I will see what I can do...
+          </p>
+          <GithubButton projectName="loko-map" />
+        </div>
+      </div>
+      <div className="card w-full mt-6 shadow-none">
+        <div className="card-body p-0">
+          <div className="card-title mb-0">
             <h2 className="text-lg">My website</h2>
           </div>
           <div className="text-base mt-1">
@@ -233,7 +235,7 @@ export default function Career() {
             <h2 className="text-lg">My Journey</h2>
           </div>
           <div className="text-base mt-1">
-            <ShinyTech tech="React" />, TypeScript, NodeJS,{" "}
+            <ShinyTech tech="React" />, TypeScript, <ShinyTech tech="React" />,{" "}
             <ShinyTech tech="PostgreSQL" />, Sequelize, Docker, Karate
           </div>
           <p className="mt-2">
@@ -297,7 +299,6 @@ export default function Career() {
           <GithubButton projectName="ugly-snake" />
         </div>
       </div>
-      <RickRolled />
     </>
   );
 }
