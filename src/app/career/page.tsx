@@ -185,7 +185,7 @@ export default function Career() {
             <h2 className="text-lg">Loko-map</h2>
           </div>
           <div className="text-base mt-1">
-            <ShinyTech tech="React" />, TypeScript, Fastify (<ShinyTech tech="React" />), MapLibre, PMTiles, Pnpm, Turborepo
+            <ShinyTech tech="React" />, TypeScript, CesiumJS, Fastify (<ShinyTech tech="React" />), Pnpm, Turborepo
           </div>
           <p className="mt-2">
             I would like to develop several features, such as displaying the approximate locations of trains currently in service in France. I will see what I can do...
