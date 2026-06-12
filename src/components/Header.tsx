@@ -11,12 +11,6 @@ export default function Header() {
           </Link>
         </li>
         <li>
-          <Link href="/career" className="px-1">
-            <span className="icon-[tabler--device-desktop-analytics] size-4 min-[500px]:size-5" />
-            <span className="text-base min-[390px]:text-lg">Career</span>
-          </Link>
-        </li>
-        <li>
           <Link href="/travel" className="px-1">
             <span className="icon-[tabler--globe-filled] size-4 min-[500px]:size-5" />
             <span className="text-base min-[390px]:text-lg">Travel</span>

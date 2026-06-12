@@ -17,7 +17,7 @@ Unit tests has been generated with IA (Claude 3.5 Sonnet).
 
 ## Performances
 
-### Home, Career and Photos
+### Home and Photos
 
 <img src="screenshots/lighthouse_main_result.png" alt="lighthouse main result" width="400"/>
 
@@ -37,7 +37,6 @@ npm install
 npx vercel env pull .env.development.local
 ```
 
-Add a `RESUME_URL` key inside the file `.env.development.local`.
 Add images in a vercel blob storage.
 
 ```

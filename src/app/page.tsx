@@ -1,4 +1,3 @@
-import Resume from "@/components/Resume";
 import Social from "@/components/Social";
 import Image from "next/image";
 import type { Metadata } from "next";
@@ -38,9 +37,6 @@ export default function Home() {
         </div>
       </div>
       <Social />
-      <div className="mt-15">
-        <Resume isHome />
-      </div>
     </>
   );
 }
